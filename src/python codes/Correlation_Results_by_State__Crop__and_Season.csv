@@ -1,0 +1,1685 @@
+State,Crop,Season,Correlation
+Assam,Arecanut,Whole Year ,-0.029592786231302022
+Assam,Arhar/Tur,Kharif     ,-0.14973014960280565
+Assam,Castor seed,Kharif     ,0.005399775922495478
+Assam,Coconut ,Whole Year ,0.048262759207754906
+Assam,Cotton(lint),Kharif     ,0.06267990542538628
+Assam,Dry chillies,Whole Year ,-0.029648523269333406
+Assam,Gram,Rabi       ,-0.07579231114696745
+Assam,Jute,Kharif     ,0.02893906349091221
+Assam,Linseed,Rabi       ,-0.09886124574027433
+Assam,Maize,Kharif     ,-0.04151325084158415
+Assam,Mesta,Kharif     ,-0.05755642331920008
+Assam,Niger seed,Whole Year ,
+Assam,Onion,Whole Year ,0.11286607121388827
+Assam,Other  Rabi pulses,Rabi       ,0.20409084300098856
+Assam,Potato,Whole Year ,-0.10737044173287778
+Assam,Rapeseed &Mustard,Rabi       ,0.03922690021796119
+Assam,Rice,Autumn     ,-0.03208509203125129
+Assam,Rice,Summer     ,-0.010414188797643545
+Assam,Rice,Winter     ,-0.003368803089188723
+Assam,Sesamum,Whole Year ,
+Assam,Small millets,Kharif     ,0.07890405976170574
+Assam,Sugarcane,Kharif     ,
+Assam,Sweet potato,Whole Year ,-0.023605587100257175
+Assam,Tapioca,Whole Year ,-0.0903384009037006
+Assam,Tobacco,Whole Year ,0.16539761059563046
+Assam,Turmeric,Whole Year ,-0.027643307850621728
+Assam,Wheat,Rabi       ,-0.04914585568862956
+Karnataka,Arecanut,Whole Year ,0.006106870817487565
+Karnataka,Arhar/Tur,Kharif     ,0.17962053282629684
+Karnataka,Bajra,Kharif     ,0.09386823774048877
+Karnataka,Bajra,Summer     ,0.028206977710866443
+Karnataka,Black pepper,Kharif     ,
+Karnataka,Cardamom,Whole Year ,-0.1694649127961437
+Karnataka,Coriander,Whole Year ,-0.16701713718663835
+Karnataka,Dry chillies,Kharif     ,0.42115209278484067
+Karnataka,Dry chillies,Rabi       ,0.13585702295566032
+Karnataka,Garlic,Whole Year ,-0.2940372276831474
+Karnataka,Ginger,Kharif     ,0.24632128870498038
+Karnataka,Groundnut,Kharif     ,-0.13156486127325315
+Karnataka,Groundnut,Rabi       ,-0.04686465565271256
+Karnataka,Horse-gram,Kharif     ,0.013645222612844501
+Karnataka,Horse-gram,Rabi       ,-0.21939781035256578
+Karnataka,Jowar,Kharif     ,0.08170784137311307
+Karnataka,Jowar,Rabi       ,-0.004396473172645363
+Karnataka,Jowar,Summer     ,0.12053657703074176
+Karnataka,Maize,Kharif     ,0.17823226122519845
+Karnataka,Maize,Rabi       ,-0.00325274815592311
+Karnataka,Maize,Summer     ,-0.029393938211692866
+Karnataka,Ragi,Kharif     ,0.004769251557340038
+Karnataka,Ragi,Rabi       ,-0.10866422643138088
+Karnataka,Ragi,Summer     ,0.05235936636739499
+Karnataka,Rice,Kharif     ,0.07459768868872778
+Karnataka,Rice,Rabi       ,0.3642499430597002
+Karnataka,Rice,Summer     ,0.3553230958704719
+Karnataka,Sugarcane,Whole Year ,0.16112641046071954
+Karnataka,Turmeric,Whole Year ,0.06562209337023334
+Karnataka,Wheat,Rabi       ,0.039947934999725536
+Kerala,Arecanut,Whole Year ,-0.027529386372868427
+Kerala,Black pepper,Whole Year ,-0.16425703892821913
+Kerala,Cashewnut,Whole Year ,0.011589436072238037
+Kerala,Coconut ,Whole Year ,0.009745760175165008
+Kerala,Tapioca,Whole Year ,0.10020519105346572
+Meghalaya,Arecanut,Whole Year ,-0.19738759406486908
+Meghalaya,Arhar/Tur,Kharif     ,-0.012773964671950503
+Meghalaya,Banana,Whole Year ,-0.1771277895507703
+Meghalaya,Castor seed,Rabi       ,0.27700747108627577
+Meghalaya,Cotton(lint),Kharif     ,-0.10605299036212111
+Meghalaya,Dry chillies,Whole Year ,0.0777073001712936
+Meghalaya,Ginger,Kharif     ,0.015095223109052359
+Meghalaya,Gram,Rabi       ,-0.013274476817088635
+Meghalaya,Jute,Kharif     ,-0.04674545984057816
+Meghalaya,Linseed,Kharif     ,1.0
+Meghalaya,Maize,Kharif     ,0.1296936303927787
+Meghalaya,Mesta,Kharif     ,-0.0831359648108287
+Meghalaya,Mesta,Whole Year ,-1.0000000000000009
+Meghalaya,Other  Rabi pulses,Rabi       ,-0.06243893876307225
+Meghalaya,Potato,Whole Year ,-0.5717975854519605
+Meghalaya,Rapeseed &Mustard,Rabi       ,0.0014510385368183836
+Meghalaya,Rice,Kharif     ,0.04354680980890677
+Meghalaya,Sesamum,Kharif     ,-0.2789389904323922
+Meghalaya,Small millets,Kharif     ,0.44327140645736823
+Meghalaya,Soyabean,Kharif     ,-0.03350567872593033
+Meghalaya,Sugarcane,Whole Year ,-0.020212111316284392
+Meghalaya,Sweet potato,Whole Year ,0.04321747867531386
+Meghalaya,Tapioca,Whole Year ,-0.2259548563923254
+Meghalaya,Tobacco,Rabi       ,-0.026328114081959834
+Meghalaya,Turmeric,Whole Year ,-0.07542939352227258
+Meghalaya,Wheat,Rabi       ,-0.0021528483563470918
+West Bengal,Arecanut,Whole Year ,-0.18969805029477288
+West Bengal,Arhar/Tur,Whole Year ,
+West Bengal,Bajra,Kharif     ,-0.12787612157154155
+West Bengal,Barley,Whole Year ,
+West Bengal,Cardamom,Whole Year ,-0.037841662876340255
+West Bengal,Castor seed,Whole Year ,
+West Bengal,Coconut ,Whole Year ,0.3616532657298687
+West Bengal,Cotton(lint),Kharif     ,0.17604211818937154
+West Bengal,Dry chillies,Whole Year ,0.18426823552979618
+West Bengal,Gram,Rabi       ,0.12148259461662367
+West Bengal,Groundnut,Whole Year ,0.6677087857318548
+West Bengal,Horse-gram,Kharif     ,0.02162264918632158
+West Bengal,Jowar,Whole Year ,
+West Bengal,Jute,Kharif     ,-0.29153571658105576
+West Bengal,Khesari,Rabi       ,0.043815875661638366
+West Bengal,Linseed,Whole Year ,
+West Bengal,Maize,Whole Year ,
+West Bengal,Masoor,Rabi       ,-0.10731093613061148
+West Bengal,Mesta,Kharif     ,-0.004030059978197619
+West Bengal,Moong(Green Gram),Kharif     ,0.02501577635150185
+West Bengal,Moong(Green Gram),Rabi       ,0.16187277743124334
+West Bengal,Moong(Green Gram),Summer     ,0.09703016349172063
+West Bengal,Niger seed,Rabi       ,
+West Bengal,Niger seed,Whole Year ,
+West Bengal,Other Kharif pulses,Kharif     ,-0.05424277708130141
+West Bengal,Potato,Whole Year ,-0.14920580883606419
+West Bengal,Ragi,Autumn     ,-0.012771609850593318
+West Bengal,Rapeseed &Mustard,Whole Year ,
+West Bengal,Rice,Autumn     ,-0.036689923599388975
+West Bengal,Rice,Summer     ,0.06188008926317603
+West Bengal,Rice,Winter     ,-0.051248415682613305
+West Bengal,Safflower,Whole Year ,
+West Bengal,Sannhamp,Whole Year ,0.42268288826021355
+West Bengal,Sesamum,Whole Year ,0.5587884697396676
+West Bengal,Small millets,Whole Year ,
+West Bengal,Soyabean,Kharif     ,-0.1551915179766258
+West Bengal,Sugarcane,Whole Year ,-0.13808326269107574
+West Bengal,Sunflower,Whole Year ,
+West Bengal,Turmeric,Whole Year ,0.022060963407300117
+West Bengal,Urad,Kharif     ,-0.15758358325194938
+West Bengal,Urad,Rabi       ,-0.02897687753411172
+West Bengal,Wheat,Rabi       ,0.05193885629009977
+Puducherry,Arecanut,Kharif     ,0.29368167901568065
+Puducherry,Bajra,Kharif     ,0.07781475241730655
+Puducherry,Black pepper,Kharif     ,0.3318702581739968
+Puducherry,Coriander,Kharif     ,
+Puducherry,Cotton(lint),Summer     ,-0.18965806578514385
+Puducherry,Dry chillies,Kharif     ,-0.04846372399594054
+Puducherry,Groundnut,Rabi       ,0.059633155642175216
+Puducherry,Onion,Kharif     ,-0.36890900716901737
+Puducherry,Ragi,Kharif     ,0.1631676740312974
+Puducherry,Rice,Kharif     ,0.09531260092571382
+Puducherry,Rice,Rabi       ,-0.12532888103791215
+Puducherry,Rice,Summer     ,-0.1774757545763831
+Puducherry,Sesamum,Kharif     ,0.4045133560473506
+Puducherry,Small millets,Kharif     ,0.4682963935809222
+Puducherry,Sugarcane,Kharif     ,-0.2818463987523166
+Puducherry,Tapioca,Kharif     ,-0.00398494232060229
+Assam,Banana,Whole Year ,-0.09163834046116912
+Assam,Niger seed,Kharif     ,-0.10823143519520881
+Assam,Sesamum,Kharif     ,-0.1644377532970015
+Assam,Sugarcane,Whole Year ,0.4186839207321546
+Goa,Arecanut,Whole Year ,-0.09920991397407491
+Goa,Banana,Whole Year ,-0.008270824558395317
+Goa,Black pepper,Whole Year ,0.329628448959786
+Goa,Cashewnut,Whole Year ,-0.20798308291216705
+Goa,Coconut ,Whole Year ,-0.05080084222905488
+Goa,Groundnut,Kharif     ,0.004578423253289178
+Goa,Groundnut,Rabi       ,0.004628097654871877
+Goa,Other  Rabi pulses,Rabi       ,-0.11148433414552816
+Goa,Other Kharif pulses,Kharif     ,0.03789465592188212
+Goa,Ragi,Kharif     ,0.0887291724120475
+Goa,Rice,Kharif     ,0.04251390416378227
+Goa,Rice,Rabi       ,-0.09439183115871787
+Goa,Sugarcane,Whole Year ,-0.05907495296439358
+Karnataka,Bajra,Rabi       ,0.3429739001136026
+Karnataka,Black pepper,Whole Year ,-0.07484396830435347
+Karnataka,Castor seed,Kharif     ,-0.10629648309937909
+Karnataka,Coconut ,Whole Year ,-0.09308865703326089
+Karnataka,Cotton(lint),Kharif     ,0.04905831677123066
+Karnataka,Dry chillies,Whole Year ,0.4176543022017004
+Karnataka,Gram,Rabi       ,-0.15450037494945365
+Karnataka,Linseed,Rabi       ,-0.22308128352380635
+Karnataka,Moong(Green Gram),Kharif     ,-0.04231606349068681
+Karnataka,Moong(Green Gram),Rabi       ,-0.018141589518359605
+Karnataka,Niger seed,Kharif     ,0.02038857599571868
+Karnataka,Onion,Kharif     ,0.34470805454857895
+Karnataka,Onion,Rabi       ,0.3041517160580415
+Karnataka,Onion,Summer     ,0.25546521837753144
+Karnataka,Peas & beans (Pulses),Kharif     ,-0.31637617718967503
+Karnataka,Peas & beans (Pulses),Rabi       ,-0.4971522155962606
+Karnataka,Peas & beans (Pulses),Summer     ,-0.22267800137265273
+Karnataka,Potato,Kharif     ,0.039980317853501104
+Karnataka,Potato,Rabi       ,0.09086517015799478
+Karnataka,Potato,Summer     ,-0.11888457128175609
+Karnataka,Potato,Whole Year ,0.4571270645700526
+Karnataka,Rapeseed &Mustard,Kharif     ,-0.19758028247231352
+Karnataka,Safflower,Rabi       ,-0.13619160572470104
+Karnataka,Sesamum,Kharif     ,0.19651249521099498
+Karnataka,Soyabean,Kharif     ,-0.07926278209794412
+Karnataka,Sunflower,Kharif     ,-0.006704509452927364
+Karnataka,Sunflower,Rabi       ,-0.02235696060483387
+Karnataka,Sunflower,Summer     ,-0.13292416405972104
+Kerala,Banana,Whole Year ,0.22828476421629332
+Kerala,Cardamom,Whole Year ,0.10727750674499423
+Kerala,Cotton(lint),Kharif     ,0.033449462905753624
+Kerala,Dry chillies,Whole Year ,1.0
+Kerala,Garlic,Whole Year ,0.03254015557551525
+Kerala,Ginger,Whole Year ,0.006690473563360058
+Kerala,Groundnut,Kharif     ,-0.32093534135253055
+Kerala,Jowar,Kharif     ,-0.07470031702080225
+Kerala,Ragi,Kharif     ,-0.1202569263670233
+Kerala,Rice,Autumn     ,0.2676325548666394
+Kerala,Rice,Summer     ,-0.1746176325090507
+Kerala,Rice,Winter     ,-0.2645352037269112
+Kerala,Sesamum,Kharif     ,0.026794600895898642
+Kerala,Sugarcane,Whole Year ,-0.054121967802013886
+Kerala,Sweet potato,Whole Year ,-0.1195496868474868
+Kerala,Tobacco,Whole Year ,0.02753418246018628
+Kerala,Turmeric,Whole Year ,0.024057416721706613
+Meghalaya,Tobacco,Whole Year ,0.06257767075693565
+West Bengal,Arhar/Tur,Kharif     ,0.22651147338950522
+West Bengal,Barley,Rabi       ,-0.06413416034865238
+West Bengal,Castor seed,Rabi       ,0.591960479510513
+West Bengal,Ginger,Kharif     ,0.21292365314955342
+West Bengal,Horse-gram,Rabi       ,-0.15820842052255532
+West Bengal,Jowar,Kharif     ,-0.25292413709471545
+West Bengal,Linseed,Rabi       ,-0.26476812273161215
+West Bengal,Maize,Kharif     ,-0.04573301884460075
+West Bengal,Niger seed,Kharif     ,0.0809072368462446
+West Bengal,Peas & beans (Pulses),Rabi       ,0.08299112374672532
+West Bengal,Ragi,Kharif     ,-0.1977605547281847
+West Bengal,Rapeseed &Mustard,Rabi       ,0.021648109032282342
+West Bengal,Safflower,Rabi       ,-0.2814839472746199
+West Bengal,Small millets,Kharif     ,-0.26633613487491214
+West Bengal,Small millets,Rabi       ,-0.06038180150000921
+West Bengal,Sunflower,Kharif     ,-0.31316896867686633
+Meghalaya,Castor seed,Kharif     ,-0.2408309842716332
+Meghalaya,Rice,Rabi       ,-0.2381965871644442
+Puducherry,Arecanut,Whole Year ,-0.46557899988882445
+Puducherry,Banana,Whole Year ,0.6809529474274713
+Puducherry,Black pepper,Whole Year ,-0.5546798306714322
+Puducherry,Cashewnut,Whole Year ,0.588875691783842
+Puducherry,Coconut ,Whole Year ,0.4790744787201303
+Puducherry,Coriander,Whole Year ,-0.18103434492134002
+Puducherry,Cotton(lint),Kharif     ,-0.14895437762958602
+Puducherry,Dry chillies,Whole Year ,0.4095299540026253
+Puducherry,Ginger,Kharif     ,0.9443348377692474
+Puducherry,Groundnut,Kharif     ,0.031579854548319
+Puducherry,Jowar,Kharif     ,-0.10384400761297159
+Puducherry,Moong(Green Gram),Rabi       ,0.33259475242426684
+Puducherry,Onion,Whole Year ,-0.31368391909276155
+Puducherry,Other  Rabi pulses,Rabi       ,0.5090277380441991
+Puducherry,Rapeseed &Mustard,Rabi       ,-0.9934592791676067
+Puducherry,Sugarcane,Whole Year ,-0.43785385228019014
+Puducherry,Tapioca,Whole Year ,-0.6459530876240955
+Puducherry,Urad,Rabi       ,0.11644010519966932
+West Bengal,Castor seed,Kharif     ,0.07825434787933475
+West Bengal,Dry chillies,Autumn     ,-1.0
+West Bengal,Dry chillies,Rabi       ,-1.0000000000000002
+West Bengal,Groundnut,Kharif     ,-0.062488868142537915
+West Bengal,Groundnut,Rabi       ,0.29097048744445836
+West Bengal,Groundnut,Summer     ,-0.14327364573695658
+West Bengal,Potato,Summer     ,-0.10948510756187557
+West Bengal,Potato,Winter     ,-0.9999999999999895
+West Bengal,Sannhamp,Autumn     ,
+West Bengal,Sannhamp,Rabi       ,
+West Bengal,Sesamum,Autumn     ,-0.0956399136337449
+West Bengal,Sesamum,Summer     ,-0.2267536541992138
+West Bengal,Sesamum,Winter     ,-0.01584381987592983
+West Bengal,Tobacco,Whole Year ,-0.1408458850750031
+Andhra Pradesh,Arecanut,Whole Year ,-0.42080725360561866
+Andhra Pradesh,Arhar/Tur,Kharif     ,0.19702922559415983
+Andhra Pradesh,Arhar/Tur,Rabi       ,0.09613343755455298
+Andhra Pradesh,Bajra,Kharif     ,0.13913505731913786
+Andhra Pradesh,Bajra,Rabi       ,0.05575552332848307
+Andhra Pradesh,Banana,Whole Year ,0.08876495341765105
+Andhra Pradesh,Cashewnut,Whole Year ,0.1224340579803942
+Andhra Pradesh,Castor seed,Kharif     ,0.1380916631495554
+Andhra Pradesh,Coconut ,Whole Year ,-0.030776676869848543
+Andhra Pradesh,Coriander,Whole Year ,-0.00012120982684281122
+Andhra Pradesh,Cotton(lint),Kharif     ,0.08132996441101151
+Andhra Pradesh,Dry chillies,Kharif     ,0.4069367038268012
+Andhra Pradesh,Dry chillies,Rabi       ,0.3790955159088517
+Andhra Pradesh,Ginger,Whole Year ,0.21160644731482708
+Andhra Pradesh,Gram,Kharif     ,-0.13666259017216772
+Andhra Pradesh,Gram,Rabi       ,-0.012467690053997641
+Andhra Pradesh,Groundnut,Kharif     ,0.04067115568612902
+Andhra Pradesh,Groundnut,Rabi       ,0.06155430438086445
+Andhra Pradesh,Horse-gram,Kharif     ,-0.13621746995110515
+Andhra Pradesh,Horse-gram,Rabi       ,0.16025741626065687
+Andhra Pradesh,Jowar,Kharif     ,0.15514476165635369
+Andhra Pradesh,Jowar,Rabi       ,-0.004509636944382502
+Andhra Pradesh,Linseed,Rabi       ,-0.4167942409291166
+Andhra Pradesh,Maize,Kharif     ,0.21152726800804703
+Andhra Pradesh,Maize,Rabi       ,0.0008009432090587864
+Andhra Pradesh,Mesta,Kharif     ,0.17154114391142852
+Andhra Pradesh,Moong(Green Gram),Kharif     ,0.1542086641239273
+Andhra Pradesh,Moong(Green Gram),Rabi       ,-0.04560751849226124
+Andhra Pradesh,Niger seed,Kharif     ,-0.02031721497864247
+Andhra Pradesh,Onion,Kharif     ,0.21368724098283626
+Andhra Pradesh,Onion,Rabi       ,-0.14159085974184263
+Andhra Pradesh,Other  Rabi pulses,Rabi       ,-0.14465212910727673
+Andhra Pradesh,Other Kharif pulses,Kharif     ,0.3627760086563704
+Andhra Pradesh,Potato,Whole Year ,0.591030394971713
+Andhra Pradesh,Ragi,Kharif     ,0.05850431232116819
+Andhra Pradesh,Ragi,Rabi       ,0.3646147696505878
+Andhra Pradesh,Rapeseed &Mustard,Rabi       ,-0.08856981368739678
+Andhra Pradesh,Rice,Kharif     ,0.15322787976590707
+Andhra Pradesh,Rice,Rabi       ,0.07072368126297814
+Andhra Pradesh,Safflower,Rabi       ,0.07979543399341871
+Andhra Pradesh,Sesamum,Kharif     ,0.06086872817068557
+Andhra Pradesh,Sesamum,Rabi       ,0.12144608455692281
+Andhra Pradesh,Small millets,Kharif     ,0.09248821335323819
+Andhra Pradesh,Small millets,Rabi       ,0.21995428465979444
+Andhra Pradesh,Sugarcane,Whole Year ,0.11669423669440132
+Andhra Pradesh,Sunflower,Kharif     ,-0.004718373648621161
+Andhra Pradesh,Sweet potato,Whole Year ,-0.6204656954078284
+Andhra Pradesh,Tapioca,Whole Year ,0.06780444804301
+Andhra Pradesh,Tobacco,Whole Year ,-0.12680318998037707
+Andhra Pradesh,Urad,Kharif     ,0.18800375441070166
+Andhra Pradesh,Urad,Rabi       ,0.13570446897880742
+Andhra Pradesh,Wheat,Rabi       ,0.05642367235581302
+Karnataka,Banana,Whole Year ,0.08360090246274401
+Karnataka,Mesta,Kharif     ,-0.2119507654473628
+Karnataka,Onion,Whole Year ,0.05500009113716873
+Karnataka,Other  Rabi pulses,Rabi       ,-0.19971982716694145
+Karnataka,Other Kharif pulses,Kharif     ,-0.003950399543953272
+Karnataka,Rapeseed &Mustard,Rabi       ,0.09349976355845793
+Karnataka,Sannhamp,Whole Year ,-0.005243902770358966
+Karnataka,Small millets,Kharif     ,-0.14764825701557316
+Karnataka,Sweet potato,Whole Year ,-0.31479055612768864
+Karnataka,Tapioca,Whole Year ,-0.3193089623554647
+Karnataka,Tobacco,Whole Year ,-0.1887009890777817
+Karnataka,Urad,Kharif     ,-0.13330774166533912
+Karnataka,Urad,Rabi       ,0.17486666767133763
+Meghalaya,Linseed,Rabi       ,0.08139124350242068
+Puducherry,Moong(Green Gram),Kharif     ,0.17669079312924546
+Puducherry,Urad,Kharif     ,0.19988122576790973
+Assam,Masoor,Rabi       ,-0.04354638166479115
+Assam,Moong(Green Gram),Rabi       ,0.008385543480800827
+Assam,Peas & beans (Pulses),Rabi       ,0.06387617955041143
+Assam,Urad,Rabi       ,0.13367846880534767
+Karnataka,Peas & beans (Pulses),Whole Year ,
+Andhra Pradesh,Soyabean,Kharif     ,0.1440782890637601
+Andhra Pradesh,other oilseeds,Rabi       ,-0.36892360828962395
+Kerala,other oilseeds,Whole Year ,
+Tamil Nadu,Arecanut,Whole Year ,0.09737746525593637
+Tamil Nadu,Arhar/Tur,Kharif     ,0.010994054211442292
+Tamil Nadu,Bajra,Kharif     ,0.008072230300621803
+Tamil Nadu,Banana,Whole Year ,-0.19927206329892097
+Tamil Nadu,Cashewnut,Whole Year ,-0.07116251648215623
+Tamil Nadu,Castor seed,Kharif     ,0.18343586273674586
+Tamil Nadu,Coconut ,Whole Year ,-0.013542304935253215
+Tamil Nadu,Coriander,Whole Year ,-0.03730278593752654
+Tamil Nadu,Cotton(lint),Kharif     ,-0.39464477013531046
+Tamil Nadu,Dry chillies,Whole Year ,0.43997929797937685
+Tamil Nadu,Garlic,Whole Year ,0.2079209765418713
+Tamil Nadu,Ginger,Whole Year ,0.3411982603690494
+Tamil Nadu,Gram,Rabi       ,-0.09924635021298492
+Tamil Nadu,Groundnut,Kharif     ,-0.11926101377070406
+Tamil Nadu,Horse-gram,Kharif     ,-0.04784587818318374
+Tamil Nadu,Jowar,Kharif     ,-0.10434353405317584
+Tamil Nadu,Maize,Kharif     ,-0.08769973456887772
+Tamil Nadu,Moong(Green Gram),Kharif     ,0.21685359262476167
+Tamil Nadu,Onion,Whole Year ,-0.2027447762172538
+Tamil Nadu,Other Kharif pulses,Kharif     ,0.08517039945247296
+Tamil Nadu,Potato,Whole Year ,-0.25089456658277004
+Tamil Nadu,Ragi,Kharif     ,-0.1414282692509563
+Tamil Nadu,Rapeseed &Mustard,Rabi       ,0.23821669330395728
+Tamil Nadu,Rice,Kharif     ,-0.2486716248976746
+Tamil Nadu,Sesamum,Kharif     ,-0.2546905850271925
+Tamil Nadu,Small millets,Kharif     ,0.4494772219884705
+Tamil Nadu,Sugarcane,Whole Year ,0.01944944936833399
+Tamil Nadu,Sunflower,Kharif     ,-0.15093176814630097
+Tamil Nadu,Sweet potato,Whole Year ,-0.22757369418898418
+Tamil Nadu,Tapioca,Whole Year ,0.017390064348352514
+Tamil Nadu,Tobacco,Whole Year ,0.012212331130475968
+Tamil Nadu,Turmeric,Whole Year ,0.1431494729373379
+Tamil Nadu,Urad,Kharif     ,0.023491196393706632
+West Bengal,Khesari,Kharif     ,
+Kerala,Small millets,Kharif     ,-1.0000000000000164
+Meghalaya,Cashewnut,Whole Year ,-0.28452841416554125
+Tamil Nadu,Black pepper,Whole Year ,-0.3184811621324579
+Tamil Nadu,Cardamom,Whole Year ,0.11554576029004063
+Tamil Nadu,Ginger,Kharif     ,-0.32701967995862186
+Kerala,Other Cereals,Kharif     ,-0.3759319993083074
+Meghalaya,Black pepper,Whole Year ,-0.14274898473080225
+Meghalaya,Coriander,Whole Year ,0.12817801521203728
+Meghalaya,Garlic,Whole Year ,
+Meghalaya,Rice,Autumn     ,-0.07970718921201088
+Meghalaya,Rice,Summer     ,-0.4103811309394014
+Meghalaya,Rice,Winter     ,-0.06878494556833621
+Meghalaya,Sweet potato,Kharif     ,-0.07341958113004482
+Tamil Nadu,Niger seed,Kharif     ,
+Andhra Pradesh,Garlic,Whole Year ,-0.2808359938021707
+Andhra Pradesh,Sunflower,Whole Year ,-0.45294423522728694
+Karnataka,Cotton(lint),Whole Year ,-0.7025201678858948
+Karnataka,Dry chillies,Summer     ,-0.28906128304600015
+Karnataka,Ginger,Whole Year ,0.05408864505780542
+Karnataka,Mesta,Whole Year ,-0.3538225500897351
+Tamil Nadu,Mesta,Kharif     ,0.3091744440833765
+Tamil Nadu,Sannhamp,Kharif     ,
+Tamil Nadu,Soyabean,Kharif     ,
+West Bengal,Arhar/Tur,Rabi       ,-0.15282437480221925
+Puducherry,Banana,Kharif     ,-0.4206910289953994
+Puducherry,Dry chillies,Rabi       ,-0.06610813833119403
+Puducherry,Dry chillies,Summer     ,-0.3637434246533692
+Puducherry,Jowar,Summer     ,-0.11637494539022217
+Puducherry,Onion,Rabi       ,-0.6742634290160546
+Puducherry,Onion,Summer     ,-0.6175425491613089
+Puducherry,Sesamum,Rabi       ,0.23963216075490398
+Meghalaya,Arecanut,Rabi       ,-0.0034292578213519615
+Meghalaya,Banana,Kharif     ,0.2374453815791261
+Meghalaya,Cotton(lint),Rabi       ,
+Meghalaya,Dry chillies,Rabi       ,
+Meghalaya,Jute,Rabi       ,
+Meghalaya,Potato,Rabi       ,
+Meghalaya,Sesamum,Rabi       ,-0.2696170399194987
+Meghalaya,Small millets,Rabi       ,0.09484156354313118
+Meghalaya,Sweet potato,Rabi       ,
+Meghalaya,Tapioca,Kharif     ,0.03224833743743711
+Meghalaya,Turmeric,Rabi       ,
+Karnataka,Gram,Kharif     ,-1.0000000000000007
+Tamil Nadu,Arhar/Tur,Whole Year ,-0.6401804642149587
+Tamil Nadu,Bajra,Whole Year ,-0.5656543642242945
+Tamil Nadu,Castor seed,Whole Year ,-0.4534274440149404
+Tamil Nadu,Cotton(lint),Whole Year ,0.48680737186185336
+Tamil Nadu,Gram,Whole Year ,-0.8667166780719815
+Tamil Nadu,Groundnut,Whole Year ,-0.22013997291447512
+Tamil Nadu,Horse-gram,Whole Year ,0.46620043275351375
+Tamil Nadu,Jowar,Whole Year ,0.3308141849242211
+Tamil Nadu,Maize,Whole Year ,-0.3433854154543142
+Tamil Nadu,Moong(Green Gram),Whole Year ,0.24642459539322448
+Tamil Nadu,Ragi,Whole Year ,-0.4037745425967029
+Tamil Nadu,Rapeseed &Mustard,Whole Year ,-0.8117850675066813
+Tamil Nadu,Sesamum,Whole Year ,-0.23071611990722832
+Tamil Nadu,Sunflower,Whole Year ,-0.10816117147515758
+Tamil Nadu,Urad,Whole Year ,-0.03305365611540579
+Puducherry,Coriander,Rabi       ,-0.9127713035222832
+Puducherry,Groundnut,Summer     ,0.3381892051312583
+Puducherry,Moong(Green Gram),Summer     ,-0.2828344755633377
+Puducherry,Other  Rabi pulses,Summer     ,-0.06788053635431139
+Puducherry,Ragi,Rabi       ,0.022685746175161756
+Puducherry,Ragi,Summer     ,0.15771062374018965
+Puducherry,Sesamum,Summer     ,0.06831377729718288
+Puducherry,Sunflower,Kharif     ,0.8801346924302894
+Puducherry,Sweet potato,Rabi       ,-0.06772954260320468
+Puducherry,Tapioca,Rabi       ,-0.16689144106997025
+Puducherry,Turmeric,Rabi       ,-0.8303184106378075
+Puducherry,Urad,Summer     ,-0.518772512561816
+Assam,Black pepper,Whole Year ,0.17565636785086686
+Assam,Ginger,Whole Year ,-0.07745863114376861
+West Bengal,Garlic,Kharif     ,
+West Bengal,Maize,Rabi       ,0.26520352880277615
+West Bengal,Maize,Summer     ,0.06565593731116469
+West Bengal,Sannhamp,Kharif     ,0.4808380490149757
+Puducherry,Bajra,Summer     ,-0.3630052086601168
+Puducherry,Cashewnut,Kharif     ,0.030872753383807735
+Puducherry,Other Kharif pulses,Kharif     ,0.7215503228847249
+Karnataka,Cashewnut,Whole Year ,-0.24209975588430582
+Meghalaya,Black pepper,Rabi       ,0.19065912638250063
+West Bengal,Maize,Autumn     ,-0.2153197312973322
+West Bengal,Other  Rabi pulses,Rabi       ,0.31640660859833797
+West Bengal,Ragi,Rabi       ,1.0000000000000004
+Puducherry,Sweet potato,Kharif     ,-0.182810962422622
+Puducherry,Turmeric,Kharif     ,-0.06566740568473782
+Meghalaya,Masoor,Rabi       ,-0.025974658650845906
+Meghalaya,Peas & beans (Pulses),Rabi       ,0.027583963252267696
+Assam,Arecanut,Rabi       ,-0.09511548905296681
+Karnataka,Cotton(lint),Rabi       ,-0.44977020130766954
+Karnataka,Cowpea(Lobia),Kharif     ,0.05671277076998706
+Karnataka,Cowpea(Lobia),Rabi       ,-0.10617153399784318
+Puducherry,Other Kharif pulses,Rabi       ,0.5899338231976322
+Andhra Pradesh,Cowpea(Lobia),Kharif     ,0.7518713067796967
+Andhra Pradesh,Cowpea(Lobia),Rabi       ,-0.4219284274545811
+Andhra Pradesh,other oilseeds,Kharif     ,-0.30607740547979745
+Kerala,Potato,Whole Year ,-0.38028716430278964
+Tamil Nadu,Bajra,Rabi       ,-0.27886855044000486
+Tamil Nadu,Cotton(lint),Rabi       ,-0.7091151323420889
+Tamil Nadu,Groundnut,Rabi       ,0.08395946740888834
+Tamil Nadu,Jowar,Rabi       ,-0.5410320235404751
+Tamil Nadu,Jute,Kharif     ,
+Tamil Nadu,Maize,Rabi       ,-0.18764994556252554
+Tamil Nadu,Ragi,Rabi       ,0.20705233053568559
+Tamil Nadu,Small millets,Whole Year ,1.0
+Andhra Pradesh,Arecanut,Kharif     ,0.45956818620439205
+Andhra Pradesh,Cashewnut,Kharif     ,0.3995405605325691
+Andhra Pradesh,Coriander,Kharif     ,-0.8713940383687699
+Andhra Pradesh,Coriander,Rabi       ,0.12689135136421015
+Andhra Pradesh,Ginger,Kharif     ,-0.6724262407758596
+Andhra Pradesh,Ginger,Rabi       ,-0.6184530143724436
+Andhra Pradesh,Linseed,Kharif     ,0.4292466061436435
+Andhra Pradesh,Niger seed,Rabi       ,0.22439100669518977
+Andhra Pradesh,Potato,Kharif     ,-0.5351899995729057
+Andhra Pradesh,Potato,Rabi       ,-0.467024189342267
+Andhra Pradesh,Soyabean,Rabi       ,-0.1639552079562882
+Andhra Pradesh,Sunflower,Rabi       ,0.47144590287998545
+Andhra Pradesh,Sweet potato,Kharif     ,0.06024110215659495
+Andhra Pradesh,Sweet potato,Rabi       ,-0.006396539603088092
+Andhra Pradesh,Tapioca,Kharif     ,-0.5064261131661293
+Andhra Pradesh,Tobacco,Kharif     ,-0.3746148144605061
+Andhra Pradesh,Tobacco,Rabi       ,-0.3321140790745344
+Karnataka,Cotton(lint),Summer     ,-0.7880270617518765
+Karnataka,Cowpea(Lobia),Summer     ,-0.14522388442820522
+Karnataka,Groundnut,Summer     ,0.3020156103317169
+Kerala,Arhar/Tur,Whole Year ,-0.08603599583984081
+Kerala,Cowpea(Lobia),Whole Year ,
+Kerala,Groundnut,Whole Year ,0.6458451060362167
+Kerala,Horse-gram,Whole Year ,
+Kerala,Jowar,Whole Year ,-0.42162780538820555
+Kerala,Maize,Whole Year ,-0.36932368518920916
+Kerala,Moong(Green Gram),Whole Year ,
+Kerala,Onion,Whole Year ,
+Kerala,Ragi,Whole Year ,0.42635811512238964
+Kerala,Sesamum,Whole Year ,0.4811146518032418
+Kerala,Sesamum,Winter     ,
+Kerala,Small millets,Whole Year ,-0.5340045114693285
+Kerala,Soyabean,Whole Year ,-0.9336528348022286
+Kerala,Urad,Whole Year ,
+Kerala,Wheat,Whole Year ,-0.18204043927694713
+Meghalaya,Maize,Whole Year ,0.984510007728248
+Andhra Pradesh,Black pepper,Kharif     ,
+Andhra Pradesh,Castor seed,Rabi       ,0.518943925589888
+Andhra Pradesh,Cotton(lint),Rabi       ,-0.3337506188467542
+Andhra Pradesh,Mesta,Rabi       ,0.12253085424876888
+Andhra Pradesh,Sannhamp,Whole Year ,
+Andhra Pradesh,Tapioca,Rabi       ,-0.24837450454457444
+Meghalaya,Cowpea(Lobia),Rabi       ,0.5934026023703521
+Tamil Nadu,Horse-gram,Rabi       ,-0.2161048435817295
+Tamil Nadu,Moong(Green Gram),Rabi       ,-0.4458944808180889
+Tamil Nadu,Onion,Kharif     ,-0.019315874764266792
+Tamil Nadu,Onion,Rabi       ,0.1968761620980507
+Tamil Nadu,Potato,Kharif     ,0.34012953887323527
+Tamil Nadu,Potato,Rabi       ,-0.467349541413876
+Tamil Nadu,Sesamum,Rabi       ,-0.11377444545582636
+Tamil Nadu,Sunflower,Rabi       ,-0.2800482877206048
+Tamil Nadu,Urad,Rabi       ,-0.3324706342135059
+Andhra Pradesh,Safflower,Kharif     ,0.997552186620783
+Meghalaya,Onion,Rabi       ,0.2568754275288774
+Meghalaya,Potato,Summer     ,0.1342092286003808
+Meghalaya,Potato,Winter     ,0.07027859950182586
+Tamil Nadu,Masoor,Kharif     ,-1.0000000000000002
+Tamil Nadu,Small millets,Rabi       ,-0.560047579941516
+Andhra Pradesh,Oilseeds total,Kharif     ,0.26631888520741565
+Andhra Pradesh,Rapeseed &Mustard,Kharif     ,-1.000000000000005
+Puducherry,Tobacco,Rabi       ,
+Meghalaya,Cashewnut,Rabi       ,0.13373278353356643
+Karnataka,Moong(Green Gram),Summer     ,0.29691155059582003
+Karnataka,Urad,Summer     ,-0.037921395906626465
+Kerala,Other Kharif pulses,Kharif     ,-0.23607482037660138
+Andhra Pradesh,Guar seed,Rabi       ,1.0
+Andhra Pradesh,Oilseeds total,Rabi       ,0.9427263394934845
+Puducherry,Other Summer Pulses,Summer     ,0.6859967411969929
+Goa,Sweet potato,Whole Year ,0.34612904266493016
+Kerala,Cotton(lint),Whole Year ,0.6611312600175981
+Tamil Nadu,Other Cereals,Kharif     ,-0.627355283885967
+Tamil Nadu,Other Cereals,Rabi       ,-0.6967565939490273
+Andhra Pradesh,Wheat,Kharif     ,
+Puducherry,Bajra,Rabi       ,
+Puducherry,Other Cereals,Rabi       ,
+Goa,other oilseeds,Whole Year ,-0.07234189753518014
+Tamil Nadu,Cowpea(Lobia),Kharif     ,-0.9962054655706074
+Tamil Nadu,Cowpea(Lobia),Rabi       ,-0.9467272707068077
+Tamil Nadu,Other  Rabi pulses,Rabi       ,-0.4478312796353006
+Tamil Nadu,Rice,Autumn     ,-0.9948992442021668
+Tamil Nadu,Rice,Summer     ,0.9776092218615833
+Tamil Nadu,Rice,Winter     ,0.9688384627266746
+Andhra Pradesh,Sugarcane,Kharif     ,0.16115154859777991
+Kerala,Gram,Whole Year ,1.0000000000000004
+Andhra Pradesh,Black pepper,Whole Year ,
+Andhra Pradesh,Guar seed,Kharif     ,
+Andhra Pradesh,Sannhamp,Kharif     ,
+Andhra Pradesh,Sannhamp,Rabi       ,
+Kerala,Other  Rabi pulses,Rabi       ,
+Kerala,Small millets,Rabi       ,
+Kerala,Sunflower,Whole Year ,
+Tamil Nadu,Arhar/Tur,Rabi       ,
+Odisha,Arhar/Tur,Autumn     ,
+Odisha,Arhar/Tur,Summer     ,
+Odisha,Arhar/Tur,Winter     ,
+Odisha,Groundnut,Autumn     ,-0.06840808330202751
+Odisha,Groundnut,Summer     ,-0.1556898349099197
+Odisha,Groundnut,Winter     ,-0.06536877753297696
+Odisha,Horse-gram,Summer     ,0.0038932747419424684
+Odisha,Horse-gram,Winter     ,0.19632485085562854
+Odisha,Jute,Autumn     ,0.22837825927708777
+Odisha,Maize,Autumn     ,0.10350418890326737
+Odisha,Maize,Summer     ,0.1506771201177325
+Odisha,Maize,Winter     ,0.10627987648521542
+Odisha,Potato,Whole Year ,0.6937052245790435
+Odisha,Ragi,Autumn     ,0.03138868420643583
+Odisha,Ragi,Summer     ,-0.08704995803621883
+Odisha,Ragi,Winter     ,-0.11958425940495686
+Odisha,Sesamum,Autumn     ,0.05844251691317517
+Odisha,Sesamum,Summer     ,0.2740992723157484
+Odisha,Sesamum,Winter     ,0.13810581864845103
+Odisha,Sugarcane,Winter     ,-0.08294023823525373
+Odisha,Urad,Autumn     ,0.2900148527077098
+Odisha,Urad,Summer     ,0.04804717064065426
+Odisha,Urad,Winter     ,0.1886608627651807
+Odisha,Wheat,Rabi       ,0.7325864292056352
+Bihar,Arhar/Tur,Kharif     ,-0.07497868371870095
+Bihar,Bajra,Kharif     ,0.024849405589325448
+Bihar,Banana,Whole Year ,-0.7217266145318799
+Bihar,Barley,Rabi       ,-0.0415930253054036
+Bihar,Castor seed,Kharif     ,0.24564772448464522
+Bihar,Coriander,Whole Year ,0.11409963484693825
+Bihar,Cotton(lint),Kharif     ,1.0
+Bihar,Dry chillies,Whole Year ,0.11112404466812541
+Bihar,Garlic,Whole Year ,0.13304846875094176
+Bihar,Ginger,Kharif     ,0.14266561750311585
+Bihar,Gram,Rabi       ,-0.09568115165897843
+Bihar,Groundnut,Kharif     ,0.04024378523509176
+Bihar,Jowar,Kharif     ,0.5574314334340811
+Bihar,Jute,Kharif     ,0.17592669067434377
+Bihar,Linseed,Rabi       ,-0.05183997190279439
+Bihar,Maize,Kharif     ,0.5445294228760327
+Bihar,Maize,Rabi       ,0.09245308792794166
+Bihar,Maize,Summer     ,0.045066412274374454
+Bihar,Mesta,Kharif     ,-0.10013628107354171
+Bihar,Niger seed,Kharif     ,-1.0000000000000042
+Bihar,Onion,Whole Year ,0.38730708119478646
+Bihar,Other  Rabi pulses,Rabi       ,0.022929751789660627
+Bihar,Other Kharif pulses,Kharif     ,0.17931027637603128
+Bihar,Potato,Whole Year ,-0.18991759916590728
+Bihar,Ragi,Whole Year ,
+Bihar,Rapeseed &Mustard,Rabi       ,-0.0751467151706448
+Bihar,Rice,Autumn     ,-0.057773598266719586
+Bihar,Rice,Summer     ,0.0011665573099228414
+Bihar,Rice,Winter     ,0.005409477595188704
+Bihar,Safflower,Rabi       ,-0.01786881326505908
+Bihar,Sannhamp,Whole Year ,0.307022971289481
+Bihar,Sesamum,Kharif     ,-0.01383564232739349
+Bihar,Small millets,Kharif     ,0.1050591296278314
+Bihar,Sugarcane,Whole Year ,-0.09208358829683988
+Bihar,Sunflower,Rabi       ,0.22794636169933558
+Bihar,Sweet potato,Whole Year ,0.40670859465906056
+Bihar,Tobacco,Rabi       ,
+Bihar,Turmeric,Whole Year ,-0.07469173059101596
+Bihar,Wheat,Rabi       ,-0.05847929718137137
+Gujarat,Arhar/Tur,Kharif     ,0.23166312539510475
+Gujarat,Bajra,Kharif     ,-0.055347963021259605
+Gujarat,Bajra,Summer     ,0.059093787094680494
+Gujarat,Banana,Whole Year ,0.013202106337733423
+Gujarat,Castor seed,Kharif     ,0.19904890996041033
+Gujarat,Castor seed,Whole Year ,
+Gujarat,Cotton(lint),Whole Year ,
+Gujarat,Dry chillies,Kharif     ,
+Gujarat,Garlic,Whole Year ,-0.03235642953107753
+Gujarat,Gram,Rabi       ,-0.003652422644945246
+Gujarat,Groundnut,Kharif     ,-0.030397577823139014
+Gujarat,Groundnut,Summer     ,-0.13858256220920495
+Gujarat,Jowar,Kharif     ,0.3034138843773002
+Gujarat,Jowar,Rabi       ,0.029989143866695128
+Gujarat,Maize,Whole Year ,
+Gujarat,Moong(Green Gram),Kharif     ,-0.05297831651400142
+Gujarat,Moth,Kharif     ,-0.021399621613473824
+Gujarat,Onion,Whole Year ,-0.2802428507033868
+Gujarat,Other  Rabi pulses,Rabi       ,-0.07004340518719089
+Gujarat,Other Kharif pulses,Kharif     ,0.19808606839720314
+Gujarat,Potato,Whole Year ,-0.07463714246386259
+Gujarat,Ragi,Whole Year ,
+Gujarat,Rapeseed &Mustard,Rabi       ,-0.01878220297505411
+Gujarat,Rice,Whole Year ,
+Gujarat,Sesamum,Whole Year ,
+Gujarat,Small millets,Kharif     ,0.045368747420769934
+Gujarat,Sugarcane,Whole Year ,0.1981213317188427
+Gujarat,Tobacco,Whole Year ,0.6250116466327968
+Gujarat,Urad,Kharif     ,-0.14636650753238348
+Gujarat,Wheat,Rabi       ,-0.03951322742634272
+Madhya Pradesh,Arhar/Tur,Kharif     ,0.36163394813918925
+Madhya Pradesh,Bajra,Kharif     ,0.17857629350729792
+Madhya Pradesh,Barley,Rabi       ,0.15162253505683418
+Madhya Pradesh,Cotton(lint),Kharif     ,-0.045554442961486266
+Madhya Pradesh,Groundnut,Kharif     ,-0.049445788986304855
+Madhya Pradesh,Jowar,Kharif     ,0.26544754476532195
+Madhya Pradesh,Jowar,Rabi       ,0.037383766193428855
+Madhya Pradesh,Linseed,Rabi       ,-0.08292691925394427
+Madhya Pradesh,Maize,Kharif     ,0.07269798602284168
+Madhya Pradesh,Rapeseed &Mustard,Rabi       ,0.2566986122966452
+Madhya Pradesh,Sesamum,Kharif     ,0.15046423993595398
+Madhya Pradesh,Small millets,Kharif     ,0.3797345768640584
+Madhya Pradesh,Soyabean,Kharif     ,0.2568097187710389
+Madhya Pradesh,Sunflower,Kharif     ,0.43043622179256064
+Madhya Pradesh,Wheat,Rabi       ,0.0977584263131007
+Maharashtra,Arhar/Tur,Kharif     ,0.2462561053923156
+Maharashtra,Bajra,Kharif     ,-0.03166669080938194
+Maharashtra,Cotton(lint),Whole Year ,
+Maharashtra,Gram,Kharif     ,
+Maharashtra,Jowar,Kharif     ,-0.11679555160564965
+Maharashtra,Jowar,Rabi       ,0.11761785282184588
+Maharashtra,Maize,Autumn     ,
+Maharashtra,Maize,Kharif     ,-0.0688375104529222
+Maharashtra,Maize,Rabi       ,0.07749428926226395
+Maharashtra,Maize,Summer     ,0.26914494782676457
+Maharashtra,Moong(Green Gram),Kharif     ,-0.02810507585254585
+Maharashtra,Other  Rabi pulses,Rabi       ,0.2634633810537064
+Maharashtra,Ragi,Kharif     ,0.03761936601456999
+Maharashtra,Rice,Kharif     ,-0.1779031986995258
+Maharashtra,Rice,Summer     ,-0.09061040505114382
+Maharashtra,Sugarcane,Kharif     ,1.0
+Maharashtra,Urad,Kharif     ,-0.03706527135036123
+Maharashtra,Wheat,Rabi       ,0.1052897248938409
+Mizoram,Arhar/Tur,Kharif     ,0.041905798879395856
+Mizoram,Coconut ,Kharif     ,
+Mizoram,Groundnut,Kharif     ,0.008352342848942098
+Mizoram,Maize,Kharif     ,-0.012415007349708733
+Mizoram,Maize,Rabi       ,-0.02096355226729235
+Mizoram,Peas & beans (Pulses),Kharif     ,-0.7379759439303378
+Mizoram,Rapeseed &Mustard,Kharif     ,-0.4107597781253158
+Mizoram,Rapeseed &Mustard,Rabi       ,0.17913563633195345
+Mizoram,Rice,Whole Year ,1.0000000000000002
+Mizoram,Sesamum,Kharif     ,0.28281803558746366
+Mizoram,Soyabean,Kharif     ,0.2456800869533866
+Mizoram,Sugarcane,Whole Year ,0.23143672353048186
+Mizoram,Sunflower,Kharif     ,-0.9999999999999994
+Mizoram,Tapioca,Whole Year ,0.31075522063300287
+Mizoram,Tobacco,Rabi       ,
+Mizoram,Wheat,Rabi       ,0.23214391032688095
+Punjab,Arhar/Tur,Kharif     ,-0.013795098624756905
+Punjab,Bajra,Kharif     ,-0.20331832322833873
+Punjab,Barley,Rabi       ,0.0955991613020218
+Punjab,Cotton(lint),Whole Year ,
+Punjab,Gram,Rabi       ,0.1203101243748857
+Punjab,Groundnut,Kharif     ,-0.046861194028651826
+Punjab,Maize,Kharif     ,0.0921015459210806
+Punjab,Masoor,Rabi       ,-0.24256374051261548
+Punjab,Moong(Green Gram),Whole Year ,
+Punjab,Rapeseed &Mustard,Rabi       ,0.05153280066620682
+Punjab,Rice,Kharif     ,0.16347041316062383
+Punjab,Sesamum,Kharif     ,-0.3269888668500312
+Punjab,Sugarcane,Whole Year ,-0.03699371986399369
+Punjab,Urad,Kharif     ,0.05082801154196795
+Punjab,Wheat,Rabi       ,0.04995815263473193
+Uttar Pradesh,Arhar/Tur,Kharif     ,0.10627372929465023
+Uttar Pradesh,Bajra,Kharif     ,0.05656329113547927
+Uttar Pradesh,Barley,Rabi       ,-0.12487552299915529
+Uttar Pradesh,Castor seed,Kharif     ,0.10908601441595722
+Uttar Pradesh,Gram,Rabi       ,0.10906891957038675
+Uttar Pradesh,Groundnut,Kharif     ,-0.07328205765541534
+Uttar Pradesh,Jowar,Kharif     ,-0.07782761776731001
+Uttar Pradesh,Linseed,Rabi       ,0.055356395158119326
+Uttar Pradesh,Maize,Kharif     ,-0.02098858406287067
+Uttar Pradesh,Maize,Summer     ,-0.07577941953139379
+Uttar Pradesh,Masoor,Rabi       ,0.05210959488875802
+Uttar Pradesh,Moong(Green Gram),Kharif     ,-0.10245087145478043
+Uttar Pradesh,Moong(Green Gram),Summer     ,-0.08900193172588276
+Uttar Pradesh,Moth,Kharif     ,-0.396923596933541
+Uttar Pradesh,Onion,Kharif     ,
+Uttar Pradesh,Peas & beans (Pulses),Rabi       ,0.20425840977368293
+Uttar Pradesh,Potato,Whole Year ,0.00385199243495362
+Uttar Pradesh,Rapeseed &Mustard,Rabi       ,0.1475558330876567
+Uttar Pradesh,Rice,Kharif     ,-0.049567610496332834
+Uttar Pradesh,Rice,Summer     ,0.019558571266363334
+Uttar Pradesh,Sesamum,Kharif     ,0.07580280242159954
+Uttar Pradesh,Small millets,Kharif     ,-0.33736803011097555
+Uttar Pradesh,Soyabean,Kharif     ,0.1310416107307738
+Uttar Pradesh,Sugarcane,Kharif     ,-0.012038176198959093
+Uttar Pradesh,Sugarcane,Whole Year ,-0.34558747129150097
+Uttar Pradesh,Sunflower,Rabi       ,-1.000000000000001
+Uttar Pradesh,Urad,Kharif     ,-0.11132838585677399
+Uttar Pradesh,Urad,Summer     ,-0.14496076210292652
+Uttar Pradesh,Wheat,Rabi       ,0.03137358335328154
+Bihar,Ginger,Whole Year ,0.39756330890515573
+Bihar,Ragi,Kharif     ,-0.16306162049365108
+Bihar,Sunflower,Kharif     ,-0.12351671701117357
+Bihar,Tobacco,Whole Year ,-0.13093982972935303
+Bihar,Urad,Kharif     ,-0.03183454153703485
+Gujarat,Cotton(lint),Kharif     ,0.19291672967190207
+Gujarat,Dry chillies,Whole Year ,0.03592688176877776
+Gujarat,Maize,Kharif     ,-0.2516993105735859
+Gujarat,Oilseeds total,Whole Year ,
+Gujarat,Other Cereals,Kharif     ,-0.13397533130052722
+Gujarat,Ragi,Kharif     ,0.3704617274711965
+Gujarat,Rice,Kharif     ,0.07497452973949437
+Gujarat,Sesamum,Kharif     ,-0.1317808456148356
+Gujarat,Small millets,Rabi       ,0.005899762081449359
+Haryana,Arhar/Tur,Kharif     ,-0.05207910474508473
+Haryana,Bajra,Kharif     ,0.03797412859266559
+Haryana,Barley,Rabi       ,-0.058042328483179445
+Haryana,Cotton(lint),Kharif     ,-0.05084931648914273
+Haryana,Dry chillies,Whole Year ,-0.20815553004747459
+Haryana,Gram,Rabi       ,-0.10070347132790729
+Haryana,Groundnut,Kharif     ,0.04552126333213506
+Haryana,Jowar,Kharif     ,-0.06252852215049333
+Haryana,Maize,Kharif     ,-0.08957508757247304
+Haryana,Masoor,Rabi       ,-0.22386510285395084
+Haryana,Moong(Green Gram),Kharif     ,-0.04959517699994202
+Haryana,Moth,Kharif     ,-0.22178818255793428
+Haryana,Onion,Whole Year ,-0.044955532847773864
+Haryana,Peas & beans (Pulses),Rabi       ,0.013873546854966756
+Haryana,Potato,Whole Year ,-0.07483858593013254
+Haryana,Rapeseed &Mustard,Rabi       ,-0.012160770220406233
+Haryana,Rice,Kharif     ,-0.0640569333650545
+Haryana,Sannhamp,Whole Year ,-0.04904722754028436
+Haryana,Sesamum,Kharif     ,-0.036679739054675094
+Haryana,Sugarcane,Whole Year ,0.019286268860802976
+Haryana,Sunflower,Rabi       ,-0.015648598773152427
+Haryana,Sweet potato,Whole Year ,0.312926345249068
+Haryana,Urad,Kharif     ,0.3624017141513616
+Haryana,Wheat,Rabi       ,-0.016039164934058728
+Himachal Pradesh,Arhar/Tur,Kharif     ,-0.14262147860737498
+Himachal Pradesh,Bajra,Kharif     ,-0.08891439119476566
+Himachal Pradesh,Barley,Rabi       ,-0.04730788580043264
+Himachal Pradesh,Coriander,Rabi       ,-0.05374752020379446
+Himachal Pradesh,Cotton(lint),Whole Year ,
+Himachal Pradesh,Dry chillies,Whole Year ,0.9191014143818025
+Himachal Pradesh,Garlic,Whole Year ,0.6049190529287531
+Himachal Pradesh,Ginger,Whole Year ,
+Himachal Pradesh,Gram,Rabi       ,-0.009985883122509372
+Himachal Pradesh,Groundnut,Kharif     ,0.21625859729241878
+Himachal Pradesh,Horse-gram,Kharif     ,0.2766350831727404
+Himachal Pradesh,Linseed,Rabi       ,-0.060209700188167826
+Himachal Pradesh,Maize,Kharif     ,0.30408310294997354
+Himachal Pradesh,Masoor,Rabi       ,-0.12351332545946091
+Himachal Pradesh,Moong(Green Gram),Kharif     ,-0.07387666871531581
+Himachal Pradesh,Peas & beans (Pulses),Rabi       ,0.3872998922409353
+Himachal Pradesh,Potato,Kharif     ,0.3213208514321532
+Himachal Pradesh,Potato,Rabi       ,-0.25240353152641315
+Himachal Pradesh,Rapeseed &Mustard,Rabi       ,-0.00526981024974703
+Himachal Pradesh,Rice,Kharif     ,0.18320866652938478
+Himachal Pradesh,Sesamum,Kharif     ,0.16699473775800291
+Himachal Pradesh,Small millets,Kharif     ,0.04241857349782369
+Himachal Pradesh,Soyabean,Kharif     ,0.0005168127572769395
+Himachal Pradesh,Tobacco,Whole Year ,-0.8204146459905703
+Himachal Pradesh,Turmeric,Whole Year ,0.713597719103484
+Himachal Pradesh,Urad,Kharif     ,0.16122702948198053
+Himachal Pradesh,Wheat,Rabi       ,0.10414382179103392
+Madhya Pradesh,Gram,Rabi       ,0.10274190103353095
+Madhya Pradesh,Rice,Kharif     ,0.1738638990627354
+Madhya Pradesh,Sugarcane,Whole Year ,0.17992363691796073
+Maharashtra,Castor seed,Kharif     ,0.017967837806419237
+Maharashtra,Cotton(lint),Kharif     ,0.04479365144835679
+Maharashtra,Gram,Rabi       ,-0.0009588298542153784
+Maharashtra,Groundnut,Kharif     ,0.12169567555270426
+Maharashtra,Groundnut,Summer     ,-0.4192108258452253
+Maharashtra,Linseed,Rabi       ,-0.12623662149600906
+Maharashtra,Niger seed,Kharif     ,-0.04198420469407048
+Maharashtra,Other Cereals,Kharif     ,-0.1291481373503351
+Maharashtra,Other Cereals,Rabi       ,-0.10470683961831773
+Maharashtra,Other Kharif pulses,Kharif     ,0.17721276463775007
+Maharashtra,Rapeseed &Mustard,Rabi       ,0.02117116565297457
+Maharashtra,Safflower,Rabi       ,0.09380310913327446
+Maharashtra,Sesamum,Kharif     ,0.03946665664109527
+Maharashtra,Sesamum,Rabi       ,0.1627210979447485
+Maharashtra,Soyabean,Kharif     ,0.06031114191475507
+Maharashtra,Sunflower,Kharif     ,0.029704729253453438
+Maharashtra,Sunflower,Rabi       ,0.04317617579334149
+Maharashtra,Sunflower,Summer     ,-0.5161354851592175
+Punjab,Cotton(lint),Kharif     ,0.08185360275042171
+Punjab,Linseed,Rabi       ,-0.2991291227346933
+Punjab,Moong(Green Gram),Kharif     ,0.03866060572838792
+Punjab,Peas & beans (Pulses),Rabi       ,-0.3967090513096097
+Tamil Nadu,Sannhamp,Whole Year ,-0.29775087130545846
+Tripura,Arhar/Tur,Kharif     ,-0.2842828853888237
+Tripura,Cotton(lint),Kharif     ,-0.2824818193159018
+Tripura,Gram,Rabi       ,-0.02496900575490857
+Tripura,Groundnut,Kharif     ,0.014093009077394053
+Tripura,Groundnut,Rabi       ,-0.099549687003343
+Tripura,Jute,Kharif     ,0.1540515907303806
+Tripura,Maize,Kharif     ,-0.07774461057139295
+Tripura,Masoor,Rabi       ,-0.18986978970802107
+Tripura,Mesta,Kharif     ,0.27681798942769703
+Tripura,Moong(Green Gram),Kharif     ,-0.13664368026354276
+Tripura,Moong(Green Gram),Rabi       ,-0.13112342558241055
+Tripura,Other  Rabi pulses,Rabi       ,0.14843726571801139
+Tripura,Other Kharif pulses,Kharif     ,0.4113404392569011
+Tripura,Peas & beans (Pulses),Rabi       ,0.03685205132880295
+Tripura,Rapeseed &Mustard,Rabi       ,-0.08089975780831851
+Tripura,Rice,Kharif     ,-0.17095847387669041
+Tripura,Sesamum,Kharif     ,-0.13677426454679179
+Tripura,Sugarcane,Whole Year ,-0.2631169422968541
+Tripura,Urad,Kharif     ,-0.09433010170243018
+Tripura,Urad,Rabi       ,-0.04956203078564071
+Tripura,Wheat,Rabi       ,-0.000904340026225338
+Uttar Pradesh,Castor seed,Rabi       ,
+Uttar Pradesh,Cotton(lint),Kharif     ,-0.10234358348656683
+Uttar Pradesh,Jute,Kharif     ,-0.9553161788840601
+Uttar Pradesh,Onion,Whole Year ,0.8706328977861888
+Uttar Pradesh,Ragi,Kharif     ,
+Uttar Pradesh,Sannhamp,Whole Year ,-0.6831971352979765
+Uttar Pradesh,Tobacco,Whole Year ,0.07130910692614556
+Uttar Pradesh,Turmeric,Whole Year ,-0.7329199121266925
+Bihar,Horse-gram,Kharif     ,-0.236329132287576
+Bihar,Khesari,Rabi       ,-0.07443500024421554
+Bihar,Masoor,Rabi       ,-0.1743271209941998
+Bihar,Moong(Green Gram),Kharif     ,0.16452938433889766
+Bihar,Moong(Green Gram),Rabi       ,-0.20716346064094138
+Bihar,Peas & beans (Pulses),Rabi       ,-0.4053878838222753
+Bihar,Rice,Kharif     ,-0.8449150685727642
+Himachal Pradesh,Masoor,Kharif     ,-0.32078448075018845
+Himachal Pradesh,Peas & beans (Pulses),Kharif     ,0.19305703692070447
+Himachal Pradesh,Potato,Whole Year ,-0.18505941181932573
+Himachal Pradesh,Sugarcane,Whole Year ,0.248219572056159
+Madhya Pradesh,Castor seed,Kharif     ,0.17781917511256573
+Madhya Pradesh,Coriander,Whole Year ,0.13922909342921164
+Madhya Pradesh,Dry chillies,Whole Year ,0.1450684532075324
+Madhya Pradesh,Garlic,Whole Year ,0.1442758320039427
+Madhya Pradesh,Ginger,Kharif     ,0.6481377240936291
+Madhya Pradesh,Niger seed,Kharif     ,0.08936320347119794
+Madhya Pradesh,Onion,Whole Year ,0.006366014740589314
+Madhya Pradesh,Other  Rabi pulses,Rabi       ,0.26396149425097215
+Madhya Pradesh,Other Kharif pulses,Kharif     ,0.3345178356276659
+Madhya Pradesh,Potato,Whole Year ,0.10962303761984542
+Madhya Pradesh,Ragi,Kharif     ,-0.10971612165110509
+Madhya Pradesh,Safflower,Rabi       ,0.18326829983619122
+Madhya Pradesh,Sannhamp,Whole Year ,0.2726076471874902
+Madhya Pradesh,Sweet potato,Whole Year ,0.14007644157665802
+Madhya Pradesh,Turmeric,Whole Year ,0.14357686480054738
+Madhya Pradesh,Urad,Kharif     ,0.21285817903220533
+Madhya Pradesh,Urad,Rabi       ,-0.2365012063282144
+Maharashtra,Small millets,Kharif     ,0.19283777419049625
+Maharashtra,Small millets,Rabi       ,0.027139717124517706
+Maharashtra,Sugarcane,Whole Year ,0.010482764019256052
+Nagaland,Arhar/Tur,Kharif     ,0.29045776231292814
+Nagaland,Bajra,Kharif     ,0.03632287145287985
+Nagaland,Castor seed,Kharif     ,0.6335429931291361
+Nagaland,Cotton(lint),Kharif     ,-0.35933938594167936
+Nagaland,Gram,Rabi       ,0.3581900857131212
+Nagaland,Groundnut,Kharif     ,-0.050114162653249555
+Nagaland,Jowar,Kharif     ,-0.0748066245516981
+Nagaland,Jute,Kharif     ,0.26042880284965164
+Nagaland,Linseed,Rabi       ,-0.07588536506723903
+Nagaland,Maize,Kharif     ,-0.19065372861177773
+Nagaland,Moong(Green Gram),Kharif     ,0.12440806296271065
+Nagaland,Peas & beans (Pulses),Kharif     ,0.36542855759388165
+Nagaland,Potato,Whole Year ,-0.4488057227927911
+Nagaland,Rapeseed &Mustard,Rabi       ,-0.2800765537245924
+Nagaland,Rice,Kharif     ,-0.0017086546911293278
+Nagaland,Sesamum,Kharif     ,-0.13127018882119407
+Nagaland,Soyabean,Kharif     ,-0.23798009484415492
+Nagaland,Sugarcane,Whole Year ,-0.14167889972374573
+Nagaland,Sunflower,Kharif     ,0.0694943468404882
+Nagaland,Sunflower,Rabi       ,0.11453532500007048
+Odisha,Arhar/Tur,Kharif     ,-0.11449915520298776
+Odisha,Bajra,Kharif     ,0.09580511518097777
+Odisha,Castor seed,Kharif     ,-0.06399717810287309
+Odisha,Castor seed,Rabi       ,0.2607517688457353
+Odisha,Coriander,Rabi       ,-0.9999999999999998
+Odisha,Cotton(lint),Kharif     ,-0.617319608255568
+Odisha,Dry chillies,Kharif     ,-0.9999999999999999
+Odisha,Dry chillies,Rabi       ,-0.9999999999999999
+Odisha,Garlic,Rabi       ,-0.9999999999999998
+Odisha,Ginger,Kharif     ,-0.04929205457823183
+Odisha,Gram,Rabi       ,-0.025875167493716853
+Odisha,Groundnut,Kharif     ,0.8515439691917401
+Odisha,Groundnut,Rabi       ,
+Odisha,Horse-gram,Rabi       ,
+Odisha,Jowar,Kharif     ,-0.03282623308108283
+Odisha,Jute,Kharif     ,-0.7733899020693419
+Odisha,Linseed,Rabi       ,0.44465300385351864
+Odisha,Maize,Kharif     ,0.7348446475979793
+Odisha,Maize,Rabi       ,1.0000000000000013
+Odisha,Masoor,Rabi       ,0.20511756198629577
+Odisha,Mesta,Kharif     ,-0.4973950867841231
+Odisha,Moong(Green Gram),Kharif     ,0.7147197920915094
+Odisha,Moong(Green Gram),Rabi       ,
+Odisha,Niger seed,Kharif     ,0.6396359116370951
+Odisha,Niger seed,Rabi       ,0.465661572177705
+Odisha,Onion,Whole Year ,-0.46126465746740697
+Odisha,Ragi,Kharif     ,0.7306213142640634
+Odisha,Ragi,Rabi       ,
+Odisha,Rapeseed &Mustard,Rabi       ,0.8081561555345078
+Odisha,Rice,Autumn     ,-0.1929455332617269
+Odisha,Rice,Summer     ,0.06458236659134092
+Odisha,Rice,Winter     ,-0.2665297406525597
+Odisha,Safflower,Rabi       ,-0.5954600833421778
+Odisha,Sannhamp,Whole Year ,-0.9999999999999987
+Odisha,Sesamum,Kharif     ,0.6816094010365825
+Odisha,Sesamum,Rabi       ,
+Odisha,Small millets,Kharif     ,0.15627025491568605
+Odisha,Soyabean,Kharif     ,
+Odisha,Sunflower,Kharif     ,-0.36724203778739006
+Odisha,Sunflower,Rabi       ,0.04348393267500482
+Odisha,Sweet potato,Kharif     ,-0.9999999999999998
+Odisha,Sweet potato,Rabi       ,-1.0000000000000004
+Odisha,Tobacco,Whole Year ,0.4176754386127433
+Odisha,Turmeric,Kharif     ,-1.0000000000000007
+Odisha,Urad,Kharif     ,0.7563559707463227
+Odisha,Urad,Rabi       ,
+Tamil Nadu,Guar seed,Whole Year ,
+Uttar Pradesh,Maize,Rabi       ,-0.005687052781902182
+Uttar Pradesh,Moth,Whole Year ,
+Uttar Pradesh,Peas & beans (Pulses),Whole Year ,
+Uttar Pradesh,Ragi,Rabi       ,0.5900849184668995
+Uttar Pradesh,Sunflower,Kharif     ,-0.3478394504988672
+Chhattisgarh,Arhar/Tur,Kharif     ,-0.0009035613743844069
+Chhattisgarh,Bajra,Kharif     ,-0.22177895693667246
+Chhattisgarh,Bajra,Whole Year ,-0.04429638558250277
+Chhattisgarh,Barley,Rabi       ,0.014971304810032745
+Chhattisgarh,Castor seed,Kharif     ,0.15067600827052055
+Chhattisgarh,Coriander,Whole Year ,-0.11318369378996389
+Chhattisgarh,Cotton(lint),Kharif     ,0.578348609071087
+Chhattisgarh,Dry chillies,Whole Year ,-0.25114707064618846
+Chhattisgarh,Garlic,Whole Year ,0.038562186507620624
+Chhattisgarh,Ginger,Whole Year ,0.19777241624010183
+Chhattisgarh,Gram,Rabi       ,0.11417648645445856
+Chhattisgarh,Groundnut,Kharif     ,0.07836421656153855
+Chhattisgarh,Horse-gram,Kharif     ,0.1662556151830328
+Chhattisgarh,Jowar,Kharif     ,0.09464687599240934
+Chhattisgarh,Khesari,Rabi       ,0.13500114800883603
+Chhattisgarh,Linseed,Rabi       ,-0.2793353159654909
+Chhattisgarh,Maize,Kharif     ,0.10053146163899498
+Chhattisgarh,Masoor,Rabi       ,-0.3938145797143489
+Chhattisgarh,Mesta,Kharif     ,-0.055458094872940594
+Chhattisgarh,Moong(Green Gram),Kharif     ,0.2180511269898817
+Chhattisgarh,Moong(Green Gram),Rabi       ,-0.03142083237904001
+Chhattisgarh,Niger seed,Kharif     ,-0.3151150442625585
+Chhattisgarh,Onion,Whole Year ,-0.24775120338153733
+Chhattisgarh,Other  Rabi pulses,Rabi       ,-0.19664709403650613
+Chhattisgarh,Other Kharif pulses,Kharif     ,-0.351488396799394
+Chhattisgarh,Peas & beans (Pulses),Rabi       ,0.12876251031656044
+Chhattisgarh,Potato,Whole Year ,-0.592416546146274
+Chhattisgarh,Ragi,Kharif     ,-0.19396719759988287
+Chhattisgarh,Rapeseed &Mustard,Rabi       ,-0.009494209309392451
+Chhattisgarh,Rice,Kharif     ,0.0686001961559071
+Chhattisgarh,Safflower,Rabi       ,-0.3083276900863695
+Chhattisgarh,Sannhamp,Whole Year ,-0.14989625463124231
+Chhattisgarh,Sesamum,Kharif     ,0.16310122017999748
+Chhattisgarh,Small millets,Kharif     ,0.4954669455634093
+Chhattisgarh,Soyabean,Kharif     ,-0.005994656594433078
+Chhattisgarh,Sugarcane,Whole Year ,-0.07778181996404529
+Chhattisgarh,Sunflower,Kharif     ,0.23234279311135633
+Chhattisgarh,Sweet potato,Whole Year ,0.2016568573397908
+Chhattisgarh,Tobacco,Whole Year ,0.045383534835284574
+Chhattisgarh,Turmeric,Whole Year ,0.08440234235658543
+Chhattisgarh,Urad,Kharif     ,-0.0018840014261355415
+Chhattisgarh,Urad,Rabi       ,0.11943866400490927
+Chhattisgarh,Wheat,Rabi       ,-0.1518003231094991
+Gujarat,Guar seed,Whole Year ,-0.04477334015312053
+Gujarat,Rice,Summer     ,-0.2594993726231233
+Haryana,Garlic,Whole Year ,0.16185960597866456
+Haryana,Ginger,Kharif     ,0.8147214356430252
+Haryana,Other Kharif pulses,Kharif     ,-0.6135389904760619
+Haryana,Turmeric,Whole Year ,0.1621512678601737
+Himachal Pradesh,Jowar,Kharif     ,
+Himachal Pradesh,Other Kharif pulses,Kharif     ,0.1380246818620706
+Mizoram,Cotton(lint),Kharif     ,0.21740828392248518
+Mizoram,Masoor,Rabi       ,-0.2952580259609449
+Mizoram,Other  Rabi pulses,Rabi       ,-0.1377142208957197
+Mizoram,Other Kharif pulses,Kharif     ,-0.16337809394437453
+Mizoram,Potato,Whole Year ,0.4172802418512626
+Mizoram,Rice,Kharif     ,-0.1719037464863623
+Mizoram,Tobacco,Whole Year ,-0.3908093428788599
+Nagaland,Barley,Rabi       ,-0.266701612078924
+Nagaland,Niger seed,Kharif     ,-0.0024928460080994334
+Nagaland,Other  Rabi pulses,Rabi       ,0.10180925324274134
+Nagaland,Other Kharif pulses,Kharif     ,0.605596485402383
+Nagaland,Peas & beans (Pulses),Rabi       ,-0.007045079966104975
+Nagaland,Rice,Rabi       ,0.06749910371220046
+Nagaland,Small millets,Kharif     ,-0.23749102704178449
+Nagaland,Wheat,Rabi       ,-0.31881553868246104
+Odisha,Arhar/Tur,Rabi       ,-0.8500570849771502
+Odisha,Coriander,Whole Year ,0.7051282585154458
+Odisha,Dry chillies,Whole Year ,-0.28215486585860944
+Odisha,Garlic,Whole Year ,-0.4235984384411573
+Odisha,Horse-gram,Kharif     ,0.15710005398095553
+Odisha,Other  Rabi pulses,Rabi       ,-0.21654337760950243
+Odisha,Other Kharif pulses,Kharif     ,0.48258955119234204
+Odisha,Sugarcane,Whole Year ,0.5827663740691769
+Odisha,Sweet potato,Whole Year ,0.4062757218020616
+Odisha,Turmeric,Whole Year ,0.5979980469443141
+Punjab,Moth,Kharif     ,-0.053250838816498974
+Punjab,Other  Rabi pulses,Rabi       ,
+Uttar Pradesh,Moong(Green Gram),Rabi       ,0.9999999999999919
+Uttar Pradesh,Urad,Rabi       ,1.0000000000000038
+Uttarakhand,Arhar/Tur,Kharif     ,0.3245407979796334
+Uttarakhand,Bajra,Kharif     ,-0.3575947353200072
+Uttarakhand,Barley,Rabi       ,-0.11022228163136595
+Uttarakhand,Garlic,Whole Year ,0.016979682284369222
+Uttarakhand,Gram,Rabi       ,0.14492404371071071
+Uttarakhand,Groundnut,Kharif     ,0.3075247830896196
+Uttarakhand,Horse-gram,Kharif     ,0.378558501248717
+Uttarakhand,Linseed,Rabi       ,-0.3451911380818033
+Uttarakhand,Maize,Kharif     ,0.24351697039175899
+Uttarakhand,Maize,Rabi       ,0.7617679137669975
+Uttarakhand,Masoor,Rabi       ,0.0029179627158421794
+Uttarakhand,Moong(Green Gram),Kharif     ,0.019355459648119525
+Uttarakhand,Moong(Green Gram),Rabi       ,0.5834473823382966
+Uttarakhand,Moth,Kharif     ,0.01109178318567766
+Uttarakhand,Onion,Whole Year ,0.21210154815209145
+Uttarakhand,Other  Rabi pulses,Rabi       ,0.23724865474949913
+Uttarakhand,Other Cereals,Kharif     ,0.3582126187506631
+Uttarakhand,Other Cereals,Rabi       ,0.060961938786054284
+Uttarakhand,Other Kharif pulses,Kharif     ,0.05821817176709499
+Uttarakhand,Peas & beans (Pulses),Rabi       ,0.14859425442649957
+Uttarakhand,Potato,Kharif     ,-0.4433952324416763
+Uttarakhand,Potato,Rabi       ,-0.4426273726528113
+Uttarakhand,Ragi,Kharif     ,0.3556233369225882
+Uttarakhand,Rapeseed &Mustard,Rabi       ,0.13019749403267325
+Uttarakhand,Rice,Kharif     ,0.2006930966067274
+Uttarakhand,Rice,Rabi       ,0.39392868723793933
+Uttarakhand,Sesamum,Kharif     ,0.04410070028067659
+Uttarakhand,Small millets,Kharif     ,0.4838147909981128
+Uttarakhand,Small millets,Rabi       ,0.9998671397385244
+Uttarakhand,Soyabean,Kharif     ,0.4211601846495114
+Uttarakhand,Sugarcane,Whole Year ,0.08392328168313427
+Uttarakhand,Sunflower,Kharif     ,0.45080627299337384
+Uttarakhand,Tobacco,Whole Year ,-0.4411562089835405
+Uttarakhand,Turmeric,Whole Year ,-0.15537231849488464
+Uttarakhand,Urad,Kharif     ,0.0176320026653898
+Uttarakhand,Urad,Rabi       ,0.802578429997539
+Uttarakhand,Wheat,Rabi       ,-0.049522922915437
+Uttarakhand,other oilseeds,Rabi       ,-0.005350551088938639
+Bihar,Maize,Autumn     ,0.13185555726791706
+Haryana,Horse-gram,Kharif     ,-0.1480794650671688
+Himachal Pradesh,Coriander,Whole Year ,-0.9999999999999998
+Himachal Pradesh,Cotton(lint),Kharif     ,-0.004571321084198242
+Himachal Pradesh,Ginger,Kharif     ,-0.21281775874822853
+Himachal Pradesh,Onion,Whole Year ,-1.0000000000000002
+Himachal Pradesh,Other  Rabi pulses,Rabi       ,0.364206275812897
+Himachal Pradesh,Sannhamp,Whole Year ,
+Himachal Pradesh,Sweet potato,Whole Year ,
+Madhya Pradesh,Banana,Whole Year ,0.1499683024680853
+Madhya Pradesh,Tobacco,Whole Year ,-0.18855407748707423
+Mizoram,Moong(Green Gram),Kharif     ,0.9868613662422425
+Mizoram,Moong(Green Gram),Rabi       ,0.15510051074211498
+Mizoram,Peas & beans (Pulses),Rabi       ,0.9438967897084324
+Mizoram,Urad,Kharif     ,0.7341581714074684
+Mizoram,Urad,Rabi       ,0.7614840107481546
+Nagaland,Groundnut,Rabi       ,
+Nagaland,Sesamum,Rabi       ,
+Odisha,Rice,Kharif     ,0.4289781844121106
+Bihar,Moong(Green Gram),Summer     ,-0.1590575757875443
+Chhattisgarh,Horse-gram,Rabi       ,-0.046596803390089654
+Haryana,Banana,Whole Year ,
+Madhya Pradesh,Cashewnut,Whole Year ,
+Mizoram,Arhar/Tur,Rabi       ,0.7375114688006168
+Mizoram,Masoor,Kharif     ,-0.9999999999999999
+Punjab,Guar seed,Whole Year ,0.08857037943397285
+Uttarakhand,Moong(Green Gram),Summer     ,-0.006262355113116099
+Uttarakhand,Onion,Rabi       ,
+Uttarakhand,Onion,Summer     ,
+Uttarakhand,Sannhamp,Whole Year ,
+Jharkhand,Arhar/Tur,Rabi       ,-0.4496351696547141
+Jharkhand,Gram,Rabi       ,-0.0475177604028561
+Jharkhand,Maize,Autumn     ,0.16208778968149154
+Jharkhand,Masoor,Rabi       ,0.03720843505757554
+Jharkhand,Potato,Rabi       ,0.22713271336121166
+Jharkhand,Potato,Winter     ,0.36821698051789015
+Jharkhand,Ragi,Autumn     ,-0.5212808765472101
+Jharkhand,Rapeseed &Mustard,Rabi       ,-0.1826718925851172
+Jharkhand,Rice,Autumn     ,-0.33019471941785594
+Jharkhand,Rice,Winter     ,-0.09662378331581217
+Jharkhand,Wheat,Rabi       ,0.054999048999192994
+Delhi,Arhar/Tur,Kharif     ,-0.5359395250452728
+Delhi,Bajra,Kharif     ,-0.21308094684492976
+Delhi,Barley,Kharif     ,0.1314258492678341
+Delhi,Gram,Rabi       ,0.01939505083700839
+Delhi,Jowar,Kharif     ,0.061735915918698606
+Delhi,Maize,Kharif     ,-0.2530942698361483
+Delhi,Other Kharif pulses,Kharif     ,0.7374589672620435
+Delhi,Potato,Whole Year ,0.016466215191869304
+Delhi,Rice,Kharif     ,0.05454855936942597
+Delhi,Sugarcane,Whole Year ,-0.13074319614234461
+Delhi,Wheat,Rabi       ,0.09287330765571722
+Haryana,other oilseeds,Rabi       ,-0.485989105420804
+Jharkhand,Arhar/Tur,Kharif     ,0.6479700711694305
+Jharkhand,Barley,Rabi       ,0.9999999999999991
+Jharkhand,Onion,Whole Year ,
+Jharkhand,Sugarcane,Whole Year ,-0.5924552518654032
+Madhya Pradesh,Horse-gram,Kharif     ,-0.06103389068935344
+Madhya Pradesh,Horse-gram,Rabi       ,-0.3466912947555947
+Madhya Pradesh,Masoor,Rabi       ,0.19831237273554783
+Madhya Pradesh,Mesta,Kharif     ,0.23682203728711018
+Madhya Pradesh,Moong(Green Gram),Kharif     ,0.09204324830346584
+Madhya Pradesh,Moong(Green Gram),Rabi       ,-0.4966367768960805
+Madhya Pradesh,Peas & beans (Pulses),Rabi       ,-0.09875523722388044
+Maharashtra,Banana,Whole Year ,
+Maharashtra,Onion,Whole Year ,
+Maharashtra,other oilseeds,Kharif     ,-0.9999999999999998
+Manipur,Arhar/Tur,Kharif     ,-0.20312483881545929
+Manipur,Banana,Whole Year ,0.04349717775523064
+Manipur,Cashewnut,Whole Year ,-0.02463014476259978
+Manipur,Dry chillies,Whole Year ,-0.10031527095918501
+Manipur,Ginger,Kharif     ,-0.1348855794384703
+Manipur,Maize,Kharif     ,0.0012449290883065967
+Manipur,Onion,Whole Year ,-0.5655221646043966
+Manipur,Other Kharif pulses,Kharif     ,0.09187586071013643
+Manipur,Peas & beans (Pulses),Kharif     ,0.35759997346674416
+Manipur,Rapeseed &Mustard,Rabi       ,-0.06224558592060326
+Manipur,Rice,Kharif     ,0.045984714215363764
+Manipur,Sesamum,Kharif     ,-0.7469277430672959
+Manipur,Soyabean,Kharif     ,-0.031475759946263185
+Manipur,Sugarcane,Whole Year ,-0.037410835034134254
+Manipur,Sweet potato,Whole Year ,0.4028512413859911
+Manipur,Tapioca,Whole Year ,-0.4722073634834328
+Manipur,Turmeric,Whole Year ,-0.19692254112198238
+Mizoram,Gram,Kharif     ,
+Mizoram,Gram,Rabi       ,
+Nagaland,Maize,Rabi       ,-0.1999432578414845
+Nagaland,Masoor,Rabi       ,-0.09980612588712778
+Punjab,Sunflower,Rabi       ,-0.3594350363694477
+Uttar Pradesh,Onion,Rabi       ,-0.13430954039259616
+Uttar Pradesh,Onion,Summer     ,0.05812195420772209
+Uttarakhand,Maize,Summer     ,-0.4904195351783496
+Uttarakhand,Potato,Whole Year ,0.4886931014704335
+Uttarakhand,Rice,Summer     ,0.2708997921186115
+Uttarakhand,Urad,Summer     ,-0.11725244886376525
+Uttarakhand,other oilseeds,Kharif     ,-0.10341565872248847
+Gujarat,Other Cereals,Rabi       ,-0.17037213291837575
+Nagaland,Sugarcane,Rabi       ,0.9168919222864451
+Jharkhand,Onion,Rabi       ,-0.5481514136622289
+Himachal Pradesh,Dry chillies,Kharif     ,0.1317919810168955
+Himachal Pradesh,Garlic,Rabi       ,-0.21221887072753406
+Himachal Pradesh,Moth,Kharif     ,-0.08781719624616996
+Himachal Pradesh,Onion,Rabi       ,-0.15816756965976428
+Himachal Pradesh,Ragi,Kharif     ,0.11814943862233367
+Himachal Pradesh,Sannhamp,Kharif     ,-0.20266167239790625
+Himachal Pradesh,Turmeric,Kharif     ,0.039157531497437593
+Mizoram,Tapioca,Kharif     ,-0.06958725657632926
+Uttarakhand,Jowar,Kharif     ,0.9999999999999996
+Bihar,Sannhamp,Kharif     ,-0.06504954894880548
+Chhattisgarh,Jute,Rabi       ,
+Chhattisgarh,Potato,Kharif     ,-0.16571269652040385
+Chhattisgarh,Potato,Rabi       ,-0.3872000604369787
+Haryana,Castor seed,Kharif     ,0.21766185564835822
+Madhya Pradesh,Jute,Kharif     ,0.27957077584724155
+Madhya Pradesh,Khesari,Rabi       ,-0.27176003826687184
+Madhya Pradesh,Sesamum,Whole Year ,-0.451139581721963
+Madhya Pradesh,Small millets,Rabi       ,-1.0000000000000007
+Nagaland,Cardamom,Kharif     ,0.997552495994259
+Nagaland,Ginger,Kharif     ,-0.07217680242780511
+Nagaland,Potato,Kharif     ,-0.5847611210097361
+Nagaland,Urad,Rabi       ,0.32669925599051824
+Punjab,Jowar,Kharif     ,
+Uttar Pradesh,Banana,Whole Year ,0.35041962636157503
+Uttar Pradesh,Coriander,Whole Year ,-1.0000000000000007
+Uttar Pradesh,Dry chillies,Whole Year ,0.9890280611977078
+Uttar Pradesh,Garlic,Rabi       ,-0.4105065174941968
+Uttar Pradesh,Ginger,Kharif     ,-0.3253097499705314
+Uttar Pradesh,Guar seed,Whole Year ,0.7181313937324232
+Uttar Pradesh,Other  Rabi pulses,Rabi       ,-0.9999999999999981
+Uttar Pradesh,Other Kharif pulses,Kharif     ,
+Uttar Pradesh,Potato,Rabi       ,-0.01007563268566504
+Uttar Pradesh,Sannhamp,Kharif     ,-0.17787362560279615
+Uttar Pradesh,Sunflower,Summer     ,0.07290455824818169
+Uttar Pradesh,Sweet potato,Kharif     ,-0.23612696924597612
+Uttar Pradesh,Tobacco,Rabi       ,0.21098647418341818
+Uttar Pradesh,Tobacco,Summer     ,-0.10902576694457913
+Uttar Pradesh,Turmeric,Rabi       ,-0.21012652360350081
+Himachal Pradesh,Sugarcane,Kharif     ,-0.9999999999999967
+Madhya Pradesh,Sannhamp,Kharif     ,-0.8747050631918022
+Madhya Pradesh,Small millets,Whole Year ,-0.9999999999999967
+Madhya Pradesh,Sunflower,Whole Year ,-0.49844978000224327
+Nagaland,Dry chillies,Kharif     ,0.9999999999999847
+Nagaland,Sugarcane,Kharif     ,-0.023048142546747488
+Nagaland,Tapioca,Kharif     ,-0.058391559604374886
+Nagaland,Turmeric,Kharif     ,0.9999999999999967
+Punjab,Guar seed,Kharif     ,0.08241331043144216
+Uttar Pradesh,Coriander,Rabi       ,-0.44713603728526147
+Uttar Pradesh,Dry chillies,Kharif     ,0.20287286845998898
+Uttar Pradesh,Guar seed,Kharif     ,-0.19809557934381833
+Uttarakhand,Dry chillies,Kharif     ,
+Bihar,Potato,Kharif     ,
+Bihar,Potato,Rabi       ,0.28182923136859167
+Bihar,Sweet potato,Kharif     ,
+Bihar,Sweet potato,Rabi       ,
+Chhattisgarh,Coconut ,Kharif     ,
+Gujarat,Onion,Rabi       ,-0.044852655263991466
+Gujarat,Tobacco,Kharif     ,-0.020819086075741053
+Haryana,Coriander,Whole Year ,0.02951420427243922
+Manipur,Cowpea(Lobia),Kharif     ,0.2772624496692684
+Manipur,Gram,Rabi       ,0.13414171507306283
+Manipur,Groundnut,Kharif     ,0.03026022856841694
+Manipur,Maize,Rabi       ,-0.0315508039353487
+Manipur,Masoor,Rabi       ,0.16115973694037444
+Manipur,Moong(Green Gram),Kharif     ,0.31381514202819527
+Manipur,Other  Rabi pulses,Rabi       ,0.07395985903261394
+Manipur,Peas & beans (Pulses),Rabi       ,0.08192677031653944
+Manipur,Potato,Whole Year ,-0.169480194283896
+Manipur,Urad,Kharif     ,0.05763233678290735
+Manipur,Wheat,Rabi       ,0.013239110029064397
+Nagaland,Potato,Rabi       ,0.14560816065968205
+Uttar Pradesh,Banana,Summer     ,0.292894362751192
+Jammu and Kashmir,Arhar/Tur,Rabi       ,
+Jammu and Kashmir,Barley,Rabi       ,0.20274956209658299
+Jammu and Kashmir,Garlic,Rabi       ,-0.48663079659226655
+Jammu and Kashmir,Gram,Rabi       ,-0.22177350787564581
+Jammu and Kashmir,Linseed,Rabi       ,-0.28495012541335346
+Jammu and Kashmir,Masoor,Rabi       ,-0.0369246589849317
+Jammu and Kashmir,Onion,Rabi       ,0.4645409703124682
+Jammu and Kashmir,Other  Rabi pulses,Rabi       ,-0.5401960752076156
+Jammu and Kashmir,Peas & beans (Pulses),Rabi       ,0.11073296865391867
+Jammu and Kashmir,Potato,Rabi       ,0.10226246101263456
+Jammu and Kashmir,Rapeseed &Mustard,Rabi       ,-0.2841852517542304
+Jammu and Kashmir,Urad,Rabi       ,0.9109219951692057
+Jammu and Kashmir,Wheat,Rabi       ,0.1655882645575167
+Jammu and Kashmir,other oilseeds,Rabi       ,-0.3605784867227406
+Jharkhand,Arhar/Tur,Winter     ,1.0000000000000024
+Chhattisgarh,Cotton(lint),Whole Year ,0.20277267753933684
+Chhattisgarh,Jute,Kharif     ,
+Gujarat,Tobacco,Rabi       ,0.7144650346826708
+Nagaland,Mesta,Kharif     ,-0.019192752697953765
+Nagaland,Ragi,Kharif     ,0.0049476178371761475
+Nagaland,Urad,Kharif     ,-0.9501840561080576
+West Bengal,Groundnut,Autumn     ,0.398394120218081
+West Bengal,Potato,Rabi       ,0.29355733927591277
+Madhya Pradesh,Arhar/Tur,Whole Year ,
+Madhya Pradesh,Bajra,Whole Year ,
+Madhya Pradesh,Barley,Whole Year ,
+Madhya Pradesh,Castor seed,Whole Year ,
+Madhya Pradesh,Cotton(lint),Whole Year ,
+Madhya Pradesh,Cowpea(Lobia),Kharif     ,-0.999999999999997
+Madhya Pradesh,Cowpea(Lobia),Rabi       ,-0.9999999999999972
+Madhya Pradesh,Ginger,Whole Year ,0.39951467560658
+Madhya Pradesh,Gram,Whole Year ,
+Madhya Pradesh,Groundnut,Whole Year ,
+Madhya Pradesh,Khesari,Whole Year ,
+Madhya Pradesh,Linseed,Whole Year ,
+Madhya Pradesh,Maize,Whole Year ,
+Madhya Pradesh,Masoor,Whole Year ,
+Madhya Pradesh,Mesta,Whole Year ,0.9999999999999972
+Madhya Pradesh,Niger seed,Whole Year ,
+Madhya Pradesh,Peas & beans (Pulses),Whole Year ,
+Madhya Pradesh,Ragi,Whole Year ,
+Madhya Pradesh,Rapeseed &Mustard,Whole Year ,
+Madhya Pradesh,Rice,Whole Year ,
+Madhya Pradesh,Safflower,Whole Year ,
+Madhya Pradesh,Soyabean,Whole Year ,
+Madhya Pradesh,Wheat,Whole Year ,
+Bihar,Safflower,Kharif     ,-0.9999999999999993
+Gujarat,Maize,Rabi       ,-0.0024169615169449274
+Gujarat,Maize,Summer     ,0.6372484470146239
+Gujarat,Moong(Green Gram),Summer     ,-0.06779735074698931
+Gujarat,Sesamum,Summer     ,-0.15799791796252097
+Gujarat,Soyabean,Kharif     ,-0.18213038274489313
+Gujarat,Urad,Summer     ,-0.23788591352965155
+Gujarat,other oilseeds,Kharif     ,
+Haryana,Other  Rabi pulses,Rabi       ,-0.9999999999999994
+Haryana,Soyabean,Kharif     ,
+Haryana,Sunflower,Kharif     ,0.3301997966385336
+Himachal Pradesh,Garlic,Kharif     ,
+Mizoram,Cowpea(Lobia),Kharif     ,0.3268548356761162
+Mizoram,Cowpea(Lobia),Rabi       ,0.1880652341175408
+Mizoram,Onion,Rabi       ,0.3499958726457261
+Mizoram,Potato,Kharif     ,-0.4554424011353809
+Mizoram,Potato,Rabi       ,0.3943848201634924
+Mizoram,Rice,Autumn     ,0.14788909777193573
+Mizoram,Rice,Rabi       ,-0.1481415513995399
+Nagaland,Horse-gram,Kharif     ,0.36576469950061496
+Jammu and Kashmir,Bajra,Kharif     ,0.05183091493765821
+Jammu and Kashmir,Barley,Kharif     ,0.26093038407169433
+Jammu and Kashmir,Cotton(lint),Kharif     ,0.08530061857149361
+Jammu and Kashmir,Cowpea(Lobia),Kharif     ,-0.5614150323352196
+Jammu and Kashmir,Cowpea(Lobia),Rabi       ,-0.7842140678188014
+Jammu and Kashmir,Dry chillies,Kharif     ,0.1401551692666458
+Jammu and Kashmir,Garlic,Kharif     ,0.7904712973280899
+Jammu and Kashmir,Ginger,Kharif     ,0.3792585561901158
+Jammu and Kashmir,Ginger,Rabi       ,
+Jammu and Kashmir,Groundnut,Kharif     ,-0.09564476356526586
+Jammu and Kashmir,Horse-gram,Kharif     ,-0.02527273556049164
+Jammu and Kashmir,Jowar,Kharif     ,-0.06704094886462973
+Jammu and Kashmir,Maize,Kharif     ,-0.029063573147671506
+Jammu and Kashmir,Masoor,Kharif     ,0.15910804026826247
+Jammu and Kashmir,Moong(Green Gram),Kharif     ,-0.2390911450056667
+Jammu and Kashmir,Moong(Green Gram),Rabi       ,-0.625297991920599
+Jammu and Kashmir,Moth,Kharif     ,0.3385899520000801
+Jammu and Kashmir,Onion,Kharif     ,-0.2307443281555436
+Jammu and Kashmir,Other Cereals,Kharif     ,-0.08162581529081224
+Jammu and Kashmir,Other Cereals,Rabi       ,-0.17596916354355333
+Jammu and Kashmir,Other Kharif pulses,Kharif     ,-0.3823884123811195
+Jammu and Kashmir,Peas & beans (Pulses),Kharif     ,-0.1642925409965575
+Jammu and Kashmir,Potato,Kharif     ,-0.23894180610007462
+Jammu and Kashmir,Rice,Kharif     ,0.23355721497257348
+Jammu and Kashmir,Sannhamp,Kharif     ,0.17323698857088976
+Jammu and Kashmir,Sesamum,Kharif     ,-0.23553194828912336
+Jammu and Kashmir,Small millets,Kharif     ,0.5781884074262555
+Jammu and Kashmir,Sugarcane,Kharif     ,0.19728800473011354
+Jammu and Kashmir,Tobacco,Kharif     ,-0.07596233967009249
+Jammu and Kashmir,Turmeric,Kharif     ,-0.27509693620532266
+Jammu and Kashmir,Turmeric,Rabi       ,-0.8503201761909753
+Jammu and Kashmir,Urad,Kharif     ,-0.08249289013018823
+Jammu and Kashmir,other oilseeds,Kharif     ,-0.40139171626264625
+West Bengal,Jowar,Autumn     ,0.1256511007180945
+Chhattisgarh,Coconut ,Whole Year ,
+Chhattisgarh,Moong(Green Gram),Summer     ,
+Gujarat,Onion,Summer     ,-0.2641111770893706
+Gujarat,other oilseeds,Whole Year ,
+Haryana,Jute,Kharif     ,
+Haryana,Sannhamp,Kharif     ,0.5110836453764575
+Haryana,Tobacco,Whole Year ,
+Madhya Pradesh,Barley,Kharif     ,0.5053376807315126
+Nagaland,Sweet potato,Kharif     ,0.1529052876327375
+Haryana,Guar seed,Whole Year ,
+Haryana,other oilseeds,Kharif     ,
+Himachal Pradesh,Tobacco,Kharif     ,1.0000000000000078
+Uttar Pradesh,Small millets,Summer     ,-0.49089315071684764
+West Bengal,Small millets,Autumn     ,-0.06133833387055647
+Chhattisgarh,Castor seed,Rabi       ,-0.6811553113742811
+Chhattisgarh,Coriander,Rabi       ,
+Chhattisgarh,Garlic,Rabi       ,
+Chhattisgarh,Guar seed,Kharif     ,
+Chhattisgarh,Jowar,Whole Year ,0.7594000169434801
+Chhattisgarh,Maize,Rabi       ,
+Chhattisgarh,Maize,Summer     ,
+Chhattisgarh,Onion,Rabi       ,
+Chhattisgarh,Onion,Summer     ,
+Chhattisgarh,Sannhamp,Kharif     ,0.1334629706055244
+Chhattisgarh,Sugarcane,Kharif     ,
+Chhattisgarh,Sunflower,Summer     ,
+Haryana,Ginger,Whole Year ,-0.06360459400370844
+Haryana,Peas & beans (Pulses),Kharif     ,0.10642789296510811
+Maharashtra,Tobacco,Whole Year ,-0.3706643162156838
+Nagaland,Cowpea(Lobia),Kharif     ,-0.32690208850486274
+Telangana,Arhar/Tur,Kharif     ,0.08073391552319696
+Telangana,Arhar/Tur,Rabi       ,0.3837249027649209
+Telangana,Bajra,Kharif     ,0.46406777827887996
+Telangana,Bajra,Rabi       ,0.4668509435586067
+Telangana,Banana,Whole Year ,
+Telangana,Cashewnut,Kharif     ,-0.14187552104624995
+Telangana,Castor seed,Kharif     ,0.09388607480857239
+Telangana,Castor seed,Rabi       ,-0.03158125767388906
+Telangana,Coconut ,Whole Year ,1.0000000000000007
+Telangana,Coriander,Whole Year ,-1.0000000000000009
+Telangana,Cotton(lint),Kharif     ,0.2685919682611198
+Telangana,Cowpea(Lobia),Kharif     ,0.19046440316037874
+Telangana,Cowpea(Lobia),Rabi       ,0.44445949280546115
+Telangana,Dry chillies,Kharif     ,0.02151207735698286
+Telangana,Dry chillies,Rabi       ,0.006002290981683318
+Telangana,Ginger,Kharif     ,-0.6003155224371932
+Telangana,Ginger,Rabi       ,0.12934043828760386
+Telangana,Gram,Kharif     ,-1.0000000000000002
+Telangana,Gram,Rabi       ,-0.33023271394860626
+Telangana,Groundnut,Kharif     ,0.16273448728044496
+Telangana,Groundnut,Rabi       ,0.1205448517226632
+Telangana,Horse-gram,Kharif     ,-0.7907959122061939
+Telangana,Horse-gram,Rabi       ,-0.6480097386152064
+Telangana,Jowar,Kharif     ,-0.15176647882445368
+Telangana,Jowar,Rabi       ,-0.02871652526686695
+Telangana,Linseed,Rabi       ,-0.6301870727266417
+Telangana,Maize,Kharif     ,-0.09450665362080916
+Telangana,Maize,Rabi       ,0.3621831614150823
+Telangana,Masoor,Rabi       ,-0.9514248379357774
+Telangana,Mesta,Kharif     ,-1.0000000000000004
+Telangana,Mesta,Rabi       ,-1.0000000000000009
+Telangana,Moong(Green Gram),Kharif     ,0.28280832226994435
+Telangana,Moong(Green Gram),Rabi       ,-0.01508597221289511
+Telangana,Onion,Kharif     ,0.0974007386572357
+Telangana,Onion,Rabi       ,0.4901505569597721
+Telangana,Other  Rabi pulses,Rabi       ,-0.9557853554193558
+Telangana,Other Kharif pulses,Kharif     ,-0.12495502320752037
+Telangana,Potato,Whole Year ,
+Telangana,Ragi,Kharif     ,-0.34083049799731996
+Telangana,Ragi,Rabi       ,-0.3271108355998648
+Telangana,Rapeseed &Mustard,Rabi       ,0.19959300489323034
+Telangana,Rice,Kharif     ,-0.5140776577510845
+Telangana,Rice,Rabi       ,0.25702030342660337
+Telangana,Safflower,Rabi       ,-0.23715363782222829
+Telangana,Sesamum,Kharif     ,-0.2366447053188439
+Telangana,Sesamum,Rabi       ,0.09880293249591027
+Telangana,Small millets,Kharif     ,0.3433387581725358
+Telangana,Soyabean,Kharif     ,-0.1780516947465529
+Telangana,Soyabean,Rabi       ,-0.956390686212465
+Telangana,Sugarcane,Kharif     ,-0.588238082968696
+Telangana,Sunflower,Kharif     ,0.0886152560251337
+Telangana,Sunflower,Rabi       ,0.2642130534395534
+Telangana,Sweet potato,Whole Year ,
+Telangana,Tobacco,Kharif     ,-0.23329360097676732
+Telangana,Tobacco,Rabi       ,0.25872736008435604
+Telangana,Turmeric,Kharif     ,0.05692222948902965
+Telangana,Urad,Kharif     ,-0.2305302695885413
+Telangana,Urad,Rabi       ,-0.2130309823003394
+Telangana,Wheat,Rabi       ,0.28252414197277737
+Telangana,other oilseeds,Kharif     ,0.995785788077472
+West Bengal,Moth,Rabi       ,0.6535779330606013
+Nagaland,Barley,Kharif     ,
+Nagaland,Niger seed,Rabi       ,0.0968275543234054
+Telangana,Banana,Kharif     ,0.07663549689017338
+Telangana,Potato,Kharif     ,0.12195353394826952
+Telangana,Potato,Rabi       ,-0.8679303172914739
+Telangana,Sweet potato,Kharif     ,0.8218326026032557
+Telangana,Sweet potato,Rabi       ,0.16577780964500097
+Uttarakhand,Garlic,Kharif     ,
+Uttarakhand,Sunflower,Whole Year ,
+Jharkhand,Peas & beans (Pulses),Rabi       ,-0.07079446423575865
+Jharkhand,Wheat,Winter     ,
+West Bengal,Moth,Kharif     ,
+Madhya Pradesh,Other Cereals,Kharif     ,1.000000000000005
+Madhya Pradesh,Sunflower,Rabi       ,
+Maharashtra,Moong(Green Gram),Summer     ,
+Maharashtra,Small millets,Summer     ,
+Maharashtra,other oilseeds,Rabi       ,-0.9999999999999993
+Maharashtra,other oilseeds,Summer     ,0.7860932920283265
+Nagaland,other oilseeds,Kharif     ,-0.12086124204720053
+Telangana,Coriander,Kharif     ,-0.8711894856176414
+Telangana,Coriander,Rabi       ,-0.4422401892172028
+Telangana,Garlic,Rabi       ,-0.361892685140878
+Telangana,Small millets,Rabi       ,-0.14641552836682314
+Tripura,Cowpea(Lobia),Kharif     ,-0.4208891864726814
+Tripura,Maize,Rabi       ,-0.700926016735728
+Tripura,Rice,Summer     ,0.4598333072549882
+Tripura,Soyabean,Kharif     ,-0.20871045427695822
+Uttarakhand,Moth,Rabi       ,
+Jharkhand,Urad,Autumn     ,-1.0000000000000047
+West Bengal,Safflower,Kharif     ,0.9577958291796702
+Arunachal Pradesh,Arhar/Tur,Kharif     ,-0.735690837462847
+Arunachal Pradesh,Dry chillies,Whole Year ,-0.2235017772705271
+Arunachal Pradesh,Ginger,Whole Year ,-0.39498113323559547
+Arunachal Pradesh,Groundnut,Kharif     ,-0.24929642488552695
+Arunachal Pradesh,Maize,Kharif     ,-0.05565564584409867
+Arunachal Pradesh,Masoor,Rabi       ,-0.7707564673674011
+Arunachal Pradesh,Moong(Green Gram),Kharif     ,0.15168197474390946
+Arunachal Pradesh,Other  Rabi pulses,Rabi       ,0.08447252772743202
+Arunachal Pradesh,Other Kharif pulses,Kharif     ,-0.7109179024945349
+Arunachal Pradesh,Peas & beans (Pulses),Kharif     ,-0.6775934222973897
+Arunachal Pradesh,Peas & beans (Pulses),Rabi       ,-0.7853127846300887
+Arunachal Pradesh,Potato,Whole Year ,-0.2306614705527337
+Arunachal Pradesh,Rapeseed &Mustard,Rabi       ,0.400882126099449
+Arunachal Pradesh,Rice,Kharif     ,0.10692661428759488
+Arunachal Pradesh,Sesamum,Kharif     ,0.321124406031194
+Arunachal Pradesh,Small millets,Kharif     ,-0.1610658617582753
+Arunachal Pradesh,Soyabean,Kharif     ,0.38938465092271074
+Arunachal Pradesh,Sugarcane,Whole Year ,-0.06789753673278712
+Arunachal Pradesh,Sunflower,Kharif     ,0.3108213097198639
+Arunachal Pradesh,Turmeric,Whole Year ,-0.12968866507931148
+Arunachal Pradesh,Urad,Kharif     ,-0.45383805816019684
+Arunachal Pradesh,Urad,Rabi       ,-0.6300943958628598
+Arunachal Pradesh,Wheat,Rabi       ,0.022021834669072624
+Arunachal Pradesh,other oilseeds,Kharif     ,-0.17381592296251247
+Bihar,Onion,Rabi       ,0.4168374998027995
+Bihar,Potato,Winter     ,-0.8595863194968885
+Madhya Pradesh,Other Cereals,Rabi       ,-1.0000000000000004
+Maharashtra,Other Cereals,Summer     ,0.3222695690699952
+Maharashtra,Other Summer Pulses,Summer     ,-0.043540656138325196
+Maharashtra,Sesamum,Summer     ,0.7162070305927932
+Telangana,Safflower,Kharif     ,1.0
+Telangana,Turmeric,Rabi       ,
+Tripura,Jowar,Kharif     ,0.7429645690224191
+Tripura,Linseed,Rabi       ,1.0000000000000007
+Tripura,Rice,Autumn     ,0.7179603675840055
+Tripura,Rice,Winter     ,-0.09089149782339698
+Tripura,Small millets,Kharif     ,-0.9997130244769786
+Tripura,Soyabean,Rabi       ,-0.3786179201350973
+Uttarakhand,Other Summer Pulses,Summer     ,-0.9999999999999996
+Haryana,Guar seed,Kharif     ,-0.8088264832688227
+Jharkhand,Bajra,Kharif     ,0.9332139255427362
+Jharkhand,Castor seed,Kharif     ,-0.2525545531924425
+Jharkhand,Groundnut,Kharif     ,-0.06456906474398937
+Jharkhand,Horse-gram,Kharif     ,0.15830084150445792
+Jharkhand,Jowar,Kharif     ,0.3128032383629819
+Jharkhand,Linseed,Rabi       ,0.8174752409325529
+Jharkhand,Maize,Kharif     ,0.9018305548459162
+Jharkhand,Maize,Rabi       ,0.24146521811589122
+Jharkhand,Moong(Green Gram),Kharif     ,0.6814381071815848
+Jharkhand,Niger seed,Kharif     ,0.21459018516668024
+Jharkhand,Other  Rabi pulses,Rabi       ,0.07741610330827442
+Jharkhand,Other Kharif pulses,Kharif     ,0.9699378285215119
+Jharkhand,Ragi,Kharif     ,0.9352979370053411
+Jharkhand,Rice,Kharif     ,0.12890467107378348
+Jharkhand,Safflower,Rabi       ,-0.470068112312247
+Jharkhand,Sesamum,Kharif     ,0.8297775704387842
+Jharkhand,Soyabean,Kharif     ,0.843786587682183
+Jharkhand,Sunflower,Kharif     ,0.8813655318693189
+Jharkhand,Sunflower,Rabi       ,-0.9570753264674743
+Jharkhand,Urad,Kharif     ,0.6634319646972963
+Madhya Pradesh,Groundnut,Summer     ,0.9999999999999999
+Madhya Pradesh,Maize,Summer     ,0.9999999999999997
+Madhya Pradesh,Moong(Green Gram),Summer     ,0.9349238282410428
+Madhya Pradesh,Rice,Summer     ,0.9999999999999997
+Madhya Pradesh,Urad,Summer     ,0.9997373267005566
+Mizoram,Tobacco,Kharif     ,-0.7140085128910542
+Nagaland,Other Cereals,Kharif     ,-0.9139964580379917
+Nagaland,Other Cereals,Rabi       ,
+Punjab,Moong(Green Gram),Rabi       ,0.0363172415848844
+Telangana,Wheat,Kharif     ,0.9999999999999997
+Chhattisgarh,Sunflower,Whole Year ,1.0000000000000004
+Tripura,Jowar,Rabi       ,1.0000000000000024
+Tripura,Khesari,Rabi       ,1.0000000000000007
+Tripura,other oilseeds,Rabi       ,0.9999999999999672
+Uttarakhand,Sunflower,Summer     ,-1.0
+Bihar,Soyabean,Kharif     ,
+Gujarat,Guar seed,Kharif     ,
+Mizoram,other oilseeds,Kharif     ,0.14448735775222696
+Odisha,Cowpea(Lobia),Kharif     ,
+Odisha,Cowpea(Lobia),Rabi       ,
+Odisha,Moong(Green Gram),Autumn     ,0.1530867576255594
+Odisha,Moong(Green Gram),Summer     ,0.017451418952924777
+Odisha,Moong(Green Gram),Winter     ,0.1127394804159267
+Odisha,Niger seed,Winter     ,0.46876613300524717
+Odisha,Onion,Rabi       ,
+Odisha,Peas & beans (Pulses),Rabi       ,
+Odisha,Potato,Winter     ,-0.2697044301583512
+Odisha,Rapeseed &Mustard,Winter     ,0.12013790655443077
+Odisha,Sannhamp,Kharif     ,
+Odisha,Tobacco,Rabi       ,
+Odisha,Wheat,Summer     ,0.03356386205435851
+Punjab,other oilseeds,Rabi       ,
+Haryana,Cotton(lint),Whole Year ,
+Haryana,Gram,Kharif     ,
+Delhi,Cotton(lint),Kharif     ,
+Andhra Pradesh,Dry chillies,Whole Year ,
+Andhra Pradesh,Masoor,Kharif     ,
+Andhra Pradesh,Masoor,Rabi       ,
+Andhra Pradesh,Onion,Whole Year ,
+Jammu and Kashmir,Sugarcane,Whole Year ,-0.4884298528484126
+Jammu and Kashmir,Dry chillies,Whole Year ,
+Jammu and Kashmir,Garlic,Whole Year ,
+Jammu and Kashmir,Onion,Whole Year ,0.23555786321372635
+Jammu and Kashmir,Sannhamp,Whole Year ,-0.879312803868693
+Jammu and Kashmir,Tobacco,Whole Year ,-0.6746055519276163
+Jammu and Kashmir,Turmeric,Whole Year ,
+Jammu and Kashmir,Potato,Whole Year ,0.6910021224051683
+Jammu and Kashmir,other oilseeds,Whole Year ,
+Uttar Pradesh,Garlic,Whole Year ,-0.9999999999999952
+Uttar Pradesh,Sweet potato,Whole Year ,-0.9999999999999981
+Jammu and Kashmir,Rapeseed &Mustard,Kharif     ,-0.9996394582013821
+Jammu and Kashmir,Wheat,Kharif     ,-1.0
+Jammu and Kashmir,Moth,Rabi       ,
+Jammu and Kashmir,Coriander,Rabi       ,
+Jammu and Kashmir,Linseed,Kharif     ,
+Jammu and Kashmir,Small millets,Rabi       ,-0.5887623820681605
+Jammu and Kashmir,Bajra,Rabi       ,-0.30549246786629314
+Jammu and Kashmir,Horse-gram,Rabi       ,-0.8232828860692403
+Jammu and Kashmir,Dry chillies,Rabi       ,0.9999999999999998
+Jammu and Kashmir,Gram,Kharif     ,-0.9999999999999994
+Jammu and Kashmir,Ragi,Kharif     ,0.9139964580379956
+Jammu and Kashmir,Ragi,Rabi       ,
+Delhi,Rapeseed &Mustard,Rabi       ,
+Manipur,Onion,Kharif     ,
+Manipur,Banana,Autumn     ,
+Manipur,Banana,Rabi       ,
+Manipur,Banana,Summer     ,-0.9999999999999994
+Manipur,Banana,Winter     ,
+Manipur,Cotton(lint),Autumn     ,
+Manipur,Cotton(lint),Rabi       ,
+Manipur,Cotton(lint),Winter     ,
+Manipur,Dry chillies,Autumn     ,
+Manipur,Dry chillies,Rabi       ,
+Manipur,Dry chillies,Summer     ,
+Manipur,Dry chillies,Winter     ,
+Manipur,Ginger,Autumn     ,
+Manipur,Ginger,Summer     ,-0.9999999999999994
+Manipur,Ginger,Winter     ,
+Manipur,Jute,Autumn     ,
+Manipur,Jute,Summer     ,
+Manipur,Maize,Autumn     ,
+Manipur,Onion,Autumn     ,
+Manipur,Onion,Rabi       ,
+Manipur,Onion,Summer     ,-0.9999999999999994
+Manipur,Onion,Winter     ,
+Manipur,Peas & beans (Pulses),Autumn     ,
+Manipur,Peas & beans (Pulses),Summer     ,
+Manipur,Peas & beans (Pulses),Winter     ,
+Manipur,Potato,Autumn     ,
+Manipur,Potato,Rabi       ,
+Manipur,Potato,Winter     ,
+Manipur,Rapeseed &Mustard,Winter     ,
+Manipur,Rice,Autumn     ,
+Manipur,Rice,Winter     ,
+Manipur,Sesamum,Autumn     ,
+Manipur,Sesamum,Winter     ,
+Manipur,Soyabean,Autumn     ,
+Manipur,Soyabean,Winter     ,
+Manipur,Sugarcane,Autumn     ,
+Manipur,Sugarcane,Rabi       ,
+Manipur,Sugarcane,Summer     ,0.9999999999999994
+Manipur,Sugarcane,Winter     ,
+Manipur,Sweet potato,Autumn     ,
+Manipur,Sweet potato,Rabi       ,
+Manipur,Sweet potato,Winter     ,
+Manipur,Tapioca,Autumn     ,
+Manipur,Turmeric,Autumn     ,
+Manipur,Turmeric,Winter     ,
+Manipur,Cotton(lint),Kharif     ,0.7751710613280558
+Manipur,Jute,Kharif     ,
+Puducherry,Other Cereals,Kharif     ,0.9999999999999988
+Puducherry,Rice,Autumn     ,0.9999999999999998
+Puducherry,Rice,Winter     ,-0.9999999999999986
+Manipur,Potato,Summer     ,
+Manipur,Turmeric,Summer     ,
+Sikkim,Barley,Rabi       ,0.38514346441013897
+Sikkim,Maize,Kharif     ,0.06174094278955803
+Sikkim,Maize,Whole Year ,0.9994678372341108
+Sikkim,Other  Rabi pulses,Rabi       ,-1.0000000000000022
+Sikkim,Rapeseed &Mustard,Rabi       ,0.12435341543427585
+Sikkim,Rice,Kharif     ,0.17711950502821258
+Sikkim,Small millets,Kharif     ,0.03202701342125995
+Sikkim,Soyabean,Kharif     ,0.022479610354817697
+Sikkim,Urad,Kharif     ,0.01261736847624373
+Sikkim,Wheat,Rabi       ,0.2035201183797697
+Sikkim,Other Cereals,Rabi       ,-0.06953417181553623
+Sikkim,Other Kharif pulses,Kharif     ,0.075001991225033
+Sikkim,other oilseeds,Kharif     ,-0.17016806631278483
+Sikkim,Potato,Whole Year ,-0.9999999999999999
+Sikkim,other oilseeds,Whole Year ,
+Sikkim,Other Cereals,Kharif     ,-0.18137722603011466
+Mizoram,other oilseeds,Rabi       ,-0.3105897534583871
+Tripura,Moong(Green Gram),Whole Year ,-0.828608830634302
+Tripura,Potato,Whole Year ,-0.675163032917274
+Tripura,other oilseeds,Whole Year ,
+Arunachal Pradesh,Groundnut,Rabi       ,-1.0000000000000004
+Arunachal Pradesh,Oilseeds total,Whole Year ,-0.07415580471067995
+Goa,Ragi,Whole Year ,
+Arunachal Pradesh,Sugarcane,Rabi       ,
