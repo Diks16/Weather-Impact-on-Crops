@@ -4,8 +4,8 @@ if (!require("dplyr")) install.packages("dplyr")
 library(ggplot2)
 library(dplyr)
 
-setwd('/Users/aggarwal.mohit/Downloads')
-crop_data <- read.csv('crop_yield.csv') 
+data_dir = '/Users/aggarwal.mohit/Documents/project/Diksha16/data/'
+crop_data = read.csv(paste(data_dir, 'crop_yield.csv', sep=""))
 
 
 ### Normalize crop yields
@@ -113,12 +113,13 @@ for (crop in crops) {
 
 
 
-crop_name <- "Wheat"
-season_name <- "Rabi       "
+crop_name <- "Rice"
+#crop_name <- "Wheat"
+season_name <- "Kharif     "
+#season_name <- "Rabi       "
 region_name <- "Punjab"
 
 timeseries_yield <- adjusted_data %>% filter(Crop == crop_name) %>% filter(Season == season_name) %>% filter(State == region_name)
-timeseries_yield <- adjusted_data %>% filter(Season == season_name) %>% filter(State == region_name)
 
 # Plotting
 p <- ggplot(timeseries_yield, aes(x = Crop_Year, y = Adjusted_Yield)) +
@@ -132,7 +133,7 @@ p <- ggplot(timeseries_yield, aes(x = Crop_Year, y = Adjusted_Yield)) +
   scale_x_continuous(breaks = unique(timeseries_yield$Crop_Year)) +
   scale_y_continuous(breaks = seq(floor(min(timeseries_yield$Adjusted_Yield)), ceiling(max(timeseries_yield$Adjusted_Yield)), by = 0.5))
 
-
+p
 
 ### Plot the distribution of temperature for all years for a given region
 ### Compare the plot with a plot of yields across different years.

@@ -8,7 +8,8 @@ library(corrplot)
 library(lubridate)
 library(tidyr)
 
-weather_data = read.csv('/Users/aggarwal.mohit/Documents/project/Dissertation/analysis/pnb_weather.csv')
+data_dir = '/Users/aggarwal.mohit/Documents/project/Diksha16/data/'
+weather_data = read.csv(paste(data_dir, 'weather_data/pnb_weather.csv', sep=""))
 
 ### Filter weather according to season.
 # Function to check if a given date falls within the specified range
@@ -70,7 +71,7 @@ bucketize_temperature <- function(df) {
 }
 
 # Apply the function to the data
-bucketed_data <- bucketize_temperature(weather_data)
+bucketed_data <- bucketize_temperature(weather_kharif)
 
 # Calculate the percentage of each temperature bracket within each year
 data <- bucketed_data %>%
@@ -164,8 +165,8 @@ temperature_correlation <- do.call(rbind, results_list)
 ggplot(final_df, aes(x = Variable, y = Crop, fill = cor)) +
   geom_tile() +
   scale_fill_gradient2(low = "blue", mid = "white", high = "red", midpoint = 0) +
-  labs(title = "Heat Map of Correlation by Variable and Crop",
-       x = "Variable",
+  labs(title = "Heat Map of Correlation for different temperature brackets and Crop",
+       x = "Temperature Brackets",
        y = "Crop",
        fill = "Correlation") +
   theme_minimal() +
@@ -197,7 +198,7 @@ ggplot(precipitation_correlation, aes(x = Variable, y = Crop, fill = cor)) +
   geom_tile() +
   scale_fill_gradient2(low = "blue", mid = "white", high = "red", midpoint = 0) +
   labs(title = "Heat Map of Correlation by Variable and Crop",
-       x = "Variable",
+       x = "Precipitation in different months",
        y = "Crop",
        fill = "Correlation") +
   theme_minimal() +
