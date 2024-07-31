@@ -12,7 +12,7 @@ library(stringr)
 
 
 # List of GRIB files
-grib_files <- list.files(path = "/Users/dikshamishra/Documents", pattern = "\\.grib$", full.names = TRUE)
+grib_files <- list.files(path = "/Users/aggarwal.mohit/Documents/project/Dissertation/mp", pattern = "\\.grib$", full.names = TRUE)
 
 # Function to read a GRIB file into a data frame
 read_grib_to_df <- function(file) {
@@ -95,7 +95,7 @@ for (file in grib_files) {
 }
 
 
-write.csv(df_list, file = "/Users/dikshamishra/Documents/Rajasthan_weather.csv")
+write.csv(df_list, file = "/Users/aggarwal.mohit/Documents/project/Diksha16/data/weather_data/mp_weather.csv")
 
 # Combine all data frames into a single data frame
 combined_df <- bind_rows(df_list)
