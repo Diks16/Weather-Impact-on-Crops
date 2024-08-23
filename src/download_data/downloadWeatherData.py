@@ -1,8 +1,8 @@
 import cdsapi
 
-# place = 'vns'
-# lat = 25
-# long = 82
+# place = 'up'
+# lat = 27.3
+# long = 80.80
 
 #place = 'pnb'
 #lat = 36.5
