@@ -12,9 +12,13 @@ import cdsapi
 #lat = 23.6
 #long = 78
 
-place = 'gj'
-lat = 22.7
-long = 71.5
+#place = 'gj'
+#lat = 22.7
+#long = 71.5
+
+place = 'up'
+lat = 27.29
+long = 80.80
 
 start_year = 1994
 end_year = 2024
