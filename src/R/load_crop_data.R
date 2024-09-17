@@ -60,9 +60,17 @@ get_filtered_yields <- function(crop_name=NA, season_name=NA, region_name=NA) {
 
 # Normalization for a Single season, single crop, single region
 crop_rice <- "Rice"
+crop_cotton <- "Cotton(lint)"
 crop_wheat <- "Wheat"
 season_rabi <- "Rabi"
 season_kharif <- "Kharif"
 region_punjab <- "Punjab"
+region_mp <- "Madhya Pradesh"
+region_gj <- "Gujarat"
 
 crop_rice_punjab <- get_filtered_yields(crop_name = crop_rice, season_name = season_kharif, region_name = region_punjab)
+crop_cotton_mp <- get_filtered_yields(crop_name = crop_cotton, season_name = season_kharif, region_name = region_mp)
+crop_rice_mp <- get_filtered_yields(crop_name = crop_rice, season_name = season_kharif, region_name = region_mp)
+crop_cotton_gj <- get_filtered_yields(crop_name = crop_cotton, season_name = season_kharif, region_name = region_gj)
+crop_rice_gj <- get_filtered_yields(crop_name = crop_rice, season_name = season_kharif, region_name = region_gj)
+

@@ -49,9 +49,9 @@ for (file in grib_files) {
   
   summarized_array <- data.frame(matrix(nrow = 1, ncol = 0))
   parsed_integers <- as.integer(unlist(str_extract_all(file, "\\d+")))
-  summarized_array[, 'year'] <- parsed_integers[1]
-  summarized_array[, 'month'] <- parsed_integers[2]
-  summarized_array[, 'date'] <- parsed_integers[3]
+  summarized_array[, 'year'] <- parsed_integers[2]
+  summarized_array[, 'month'] <- parsed_integers[3]
+  summarized_array[, 'date'] <- parsed_integers[4]
   
   for (column in column_names) {
     arr <- ans[[column]]
